@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mot au hasard</title>
+    <style>
+		* {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
+            display: flex;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(180deg, #e8eaea, #784692);
+            justify-content: center;
+            align-items: center;
+        }
+
+        #container {
+            background: white;
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 90%;
+            max-width: 400px;
+        }
+
+        h1 {
+            font-size: 22px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 15px;
+        }
+
+        label {
+            font-size: 14px;
+            color: #666;
+        }
+
+        input {
+            font-size: 16px;
+            width: 60px;
+            padding: 5px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            text-align: center;
+            outline: none;
+            margin-left: 5px;
+        }
+
+        #words-container {
+            margin: 20px 0;
+        }
+
+        .word-item {
+            font-size: 20px;
+            font-weight: 600;
+            color: #222;
+            padding: 10px;
+            background: #f8f8f8;
+            border-radius: 12px;
+            margin: 5px 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+
+        .lengths {
+            font-size: 14px;
+            color: #888;
+            margin-top: 5px;
+        }
+
+        button {
+            font-size: 16px;
+            font-weight: 600;
+            background: #007aff;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: background 0.2s ease-in-out;
+        }
+
+        button:hover {
+            background: #005ecb;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="container">
+        <div>
+            <label for="minLength">Min. lenght :</label>
+            <input type="number" id="minLength" value="1" min="1">
+        </div>
+        <div id="words-container">Wait...</div>
+        <button onclick="regenerateWords()">Regen</button>
+    </div>
+	<script src="custom.js"></script>
+    <script>
+        let words = [];
+        const externalSources = [
+            `https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/fr`,
+            // `https://raw.githubusercontent.com/Taknok/French-Wordlist/refs/heads/master/francais.txt`,
+            // `https://raw.githubusercontent.com/kuel27/wordlist/main/wordlist.txt`
+        ];
+
+        const customFile = 'custom.js';
+		
+        function fetchWords(url) {
+            return fetch(url)
+                .then(response => response.text())
+                .then(text => text.split('\n').map(word => word.trim()))
+                .catch(error => console.error('Loading Error', error));
+        }
+
+		Promise.all([
+			...externalSources.map(fetchWords),
+			fetchWords(customFile)
+		])
+		.then(allWords => {
+			words = allWords.flat().concat(customWords);
+			regenerateWords();
+		})
+		.catch(error => console.error('Catch Error', error));
+
+
+        function regenerateWords() {
+            const minTotalLength = parseInt(document.getElementById('minLength').value, 10) || 1;
+            const wordsContainer = document.getElementById('words-container');
+            wordsContainer.innerHTML = ``;
+            const generatedWords = [];
+
+            if (words.length > 0) {
+                while (generatedWords.length < 5) {
+                    let randomWord = ``;
+                    let wordLengths = [];
+
+                    do {
+                        const randomIndex = Math.max(Math.floor(Math.random() * words.length), 1);
+                        randomWord = words[randomIndex].trim();
+                        wordLengths = getWordLengths(randomWord);
+                    } while (wordLengths.reduce((a, b) => a + b, 0) < minTotalLength);
+
+                    generatedWords.push({ term: randomWord, lengths: wordLengths });
+                }
+
+                generatedWords.forEach(({ term, lengths }) => {
+                    const wordItem = document.createElement("div");
+                    wordItem.classList.add("word-item");
+                    wordItem.textContent = term;
+
+                    const lengthInfo = document.createElement("div");
+                    lengthInfo.classList.add("lengths");
+                    lengthInfo.textContent = `lenghts : ${lengths.join(', ')}`;
+
+                    wordsContainer.appendChild(wordItem);
+                    wordsContainer.appendChild(lengthInfo);
+                });
+            } else {
+                wordsContainer.textContent = 'Load Error';
+            }
+        }
+
+        function getWordLengths(term) {
+            const wordsArray = term.split(' ').flatMap(word => word.split('-'));
+            return wordsArray.map(word => word.length);
+        }
+
+		document.addEventListener("keydown", function(event) {
+			if (event.key === " " || event.key === "Enter") {
+				event.preventDefault();
+				regenerateWords();
+			}
+		});
+    </script>
+
+</body>
+</html>
