@@ -9,7 +9,7 @@ const sources = [
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/darkdarkVOLAIRE.txt", name: "darkdark VOLAIRE", enabled: false },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/nosense.txt", name: "Aucun Sens", enabled: false },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/wakfu.txt", name: "Wakfu", enabled: false },
-    { url: "https://raw.githubusercontent.com/kuel27/wordlist/main/wordlist.txt", name: "Kuel27", enabled: false }
+    { url: "https://raw.githubusercontent.com/kuel27/wordlist/main/wordlist.txt", name: "Kuel27 (en)", enabled: false }
 ];
 
 function fetchWords(url) {
@@ -34,7 +34,8 @@ function updateWords() {
 }
 
 function regenerateWords() {
-    const minTotalLength = parseInt(document.getElementById('minLength').value, 10) || 1;
+    const minTotalLength = parseInt(document.getElementById('minLength').value, 10)
+    localStorage.setItem('minLength', minLength || 1);
     const wordsContainer = document.getElementById('words-container');
     wordsContainer.innerHTML = ``;
     const generatedWords = [];
@@ -78,6 +79,8 @@ function getWordLengths(term) {
 function toggleSource(index) {
     sources[index].enabled = !sources[index].enabled;
     updateWords();
+    localStorage.setItem('sources', JSON.stringify(sources));
+    localStorage.setItem('minLength', minLength || 1);
 }
 
 function createSourceTable() {
@@ -117,5 +120,20 @@ document.addEventListener("keydown", function(event) {
 
 document.addEventListener("DOMContentLoaded", function () {
     createSourceTable();
+
+    const savedSources = JSON.parse(localStorage.getItem('sources'));
+    if (savedSources) {
+        sources.forEach((source, index) => {
+            source.enabled = savedSources[index]?.enabled ?? source.enabled;
+        });
+    }
+
+    const savedMinLength = localStorage.getItem('minLength') || 1;
+    if (savedMinLength) {
+        document.getElementById('minLength').value = Math.max(savedMinLength, 1);
+    }
+
     updateWords();
+    createSourceTable();
 });
+
