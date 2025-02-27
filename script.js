@@ -227,7 +227,6 @@ function exportWords() {
 	}
 }
 
-
 document.addEventListener("DOMContentLoaded", function () {
 	createSourceTable();
 
