@@ -136,4 +136,3 @@ document.addEventListener("DOMContentLoaded", function () {
     updateWords();
     createSourceTable();
 });
-

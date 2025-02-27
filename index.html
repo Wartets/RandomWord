@@ -3,24 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://wartets.github.io/N-Body-Problem/image/browser-icon.png">
+	<link rel="apple-touch-icon" href="https://wartets.github.io/N-Body-Problem/image/browser-icon.png">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+    <meta property="og:image" content="https://wartets.github.io/N-Body-Problem/image/browser-icon.png">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://wartets.github.io/RandomWord">
     <title>Random Word</title>
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 	<script src="script.js"></script>
 
-<div class="main-container">
-    <div id="container">
-        <div>
-            <label for="minLength">Min. lenght :</label>
-            <input type="number" id="minLength" value="1" min="1">
-        </div>
-        <div id="words-container">Wait...</div>
-        <button onclick="regenerateWords()">Regen</button>
-    </div>
-    <div id="source-container"></div>
-</div>
-
-
+	<div class="main-container">
+		<div id="container">
+			<div>
+				<label for="minLength">Min. lenght :</label>
+				<input type="number" id="minLength" value="1" min="1">
+			</div>
+			<div id="words-container">Wait...</div>
+			<button onclick="regenerateWords()">Regen</button>
+		</div>
+		<div id="source-container"></div>
+	</div>
 </body>
 </html>
