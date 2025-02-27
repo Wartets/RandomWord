@@ -77,7 +77,7 @@ button {
 	border: none;
 	padding: 12px 20px;
 	border-radius: 25px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 	cursor: pointer;
 	transition: background 0.2s ease-in-out;
 }
@@ -93,9 +93,9 @@ button:hover {
 	border-radius: 15px;
 	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 	text-align: center;
-    max-height: 520px;
-    max-width: 500px;
-    overflow-y: auto;
+	max-height: 520px;
+	max-width: 500px;
+	overflow-y: auto;
 }
 
 table {
@@ -175,31 +175,31 @@ input[type="checkbox"] {
 }
 
 .main-container {
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    align-items: flex-start;
-    width: 100%;
-    max-width: 900px;
+	display: flex;
+	gap: 20px;
+	justify-content: center;
+	align-items: flex-start;
+	width: 100%;
+	max-width: 900px;
 }
 
 ::-webkit-scrollbar {
-    width: 5px;
-    height: 5px;
+	width: 5px;
+	height: 5px;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: rgba(177, 105, 214, 0.7);
-    border-radius: 10px;
+	background: rgba(177, 105, 214, 0.7);
+	border-radius: 10px;
 }
 
 ::-webkit-scrollbar-track {
-    background: rgba(0, 0, 0, 0);
+	background: rgba(0, 0, 0, 0);
 	transition: background 0.2s ease-in-out;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(120, 70, 156, 0.9);
+	background: rgba(120, 70, 156, 0.9);
 	transition: background 0.2s ease-in-out;
 }
 
@@ -207,62 +207,62 @@ input[type="checkbox"] {
 	margin-right: 10px;
 	font-size: 15px;
 	font-weight: 600;
-    color: #555;
-    background-color: #f0f0f0;
-    padding: 8px 15px;
+	color: #555;
+	background-color: #f0f0f0;
+	padding: 8px 15px;
 	border: none;
 	padding: 12px 20px;
 	border-radius: 25px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    width: fit-content;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+	text-align: center;
+	width: fit-content;
 }
 
 #total-terms {
-    display: inline-block;
-    font-weight: 600;
-    background-color: #f8f8f8;
+	display: inline-block;
+	font-weight: 600;
+	background-color: #f8f8f8;
 }
 
 footer {
 	z-index: 3;
-    text-align: center;
-    margin-top: 30px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	color: #b4b4b4;
 	font-size: 0.8rem;
-    position: fixed;
+	position: fixed;
 	left: 0;
-    bottom: 0;
-    width: 100%;
+	bottom: 0;
+	width: 100%;
 }
 
 footer a {
-    color: #a0a0a0;
-    text-decoration: none;
-    font-weight: bold;
-    transition: color 0.15s ease-in;
+	color: #a0a0a0;
+	text-decoration: none;
+	font-weight: bold;
+	transition: color 0.15s ease-in;
 }
 
 footer a:hover {
-    color: #555;
-    text-decoration: underline;
+	color: #555;
+	text-decoration: underline;
 }
 
 .loading-icon {
-    width: 30px;
-    height: 30px;
-    border: 4px solid #f3f3f3;
-    border-top: 4px solid #3498db;
-    border-radius: 50%;
-    animation: spin 2s linear infinite;
-    margin: 0 auto;
+	width: 30px;
+	height: 30px;
+	border: 4px solid #f3f3f3;
+	border-top: 4px solid #3498db;
+	border-radius: 50%;
+	animation: spin 2s linear infinite;
+	margin: 0 auto;
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
 }
 
 #export-container {
