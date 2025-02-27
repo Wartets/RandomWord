@@ -6,14 +6,14 @@
 }
 
 html, body {
-    width: 100%;
-    overflow: auto;
+	width: 100%;
+	overflow: auto;
 }
 
 body {
 	font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
 	display: flex;
-    min-height: 100vh;
+	min-height: 100vh;
 	margin: 0;
 	background: linear-gradient(180deg, #e8eaea, #784692);
 	justify-content: center;
@@ -334,7 +334,7 @@ footer a:hover {
 	transform: scale(1.02);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 599px) {
 	.main-container {
 		flex-direction: column;
 		align-items: center;
@@ -358,5 +358,4 @@ footer a:hover {
 		width: 80%;
 		padding-bottom: 50px;
 	}
-
 }
