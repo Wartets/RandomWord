@@ -89,7 +89,7 @@ button:hover {
 
 #source-container {
 	gap: 20px;
-	background: argb(240, 240, 240, 0.4);
+	background: argb(241, 240, 240, 0.4);
 	padding: 15px;
 	border-radius: 15px;
 	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -223,4 +223,31 @@ input[type="checkbox"] {
     display: inline-block;
     font-weight: 600;
     background-color: #f8f8f8;
+}
+
+/* Footer */
+footer {
+	z-index: 3;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+	color: #b4b4b4;
+	font-size: 0.8rem;
+    position: fixed;
+	left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: #a0a0a0;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.15s ease-in;
+}
+
+footer a:hover {
+    color: #555;
+    text-decoration: underline;
 }
