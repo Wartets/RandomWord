@@ -2,7 +2,7 @@ let words = [];
 const sources = [
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/astroaid.txt", name: "Samstroversaire", enabled: false, index: 0 },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/wiwiwi.txt", name: "Wiwiwi", enabled: false, index: 1 },
-    { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/fr", name: "GameYoga", enabled: true, index: 2 },
+    { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/fr", name: "GameYoga (fr)", enabled: true, index: 2 },
     { url: "https://raw.githubusercontent.com/Taknok/French-Wordlist/refs/heads/master/francais.txt", name: "Taknok", enabled: true, index: 3 },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/lol.txt", name: "Ligue of Legends", enabled: false, index: 4 },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/forest.txt", name: "Forêt enchantée", enabled: false, index: 5 },
@@ -20,6 +20,10 @@ const sources = [
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/geo.txt", name: "Géographie", enabled: false, index: 17 },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/moyenage.txt", name: "Moyen-Âge", enabled: false, index: 18 },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/lovsex.txt", name: "Love & Sex", enabled: false, index: 19 },
+    { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/en", name: "GameYoga (en)", enabled: false, index: 20 },
+    { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/de", name: "GameYoga (de)", enabled: false, index: 21 },
+    { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/it", name: "GameYoga (it)", enabled: false, index: 22 },
+    { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/nl", name: "GameYoga (nl)", enabled: false, index: 23 },
 ];
 
 function fetchWords(url) {
@@ -54,6 +58,13 @@ function regenerateWords() {
     const wordsContainer = document.getElementById('words-container');
     wordsContainer.innerHTML = ``;
     const generatedWords = [];
+	
+	if (window.regenAudio) {
+		window.regenAudio.pause();
+		window.regenAudio.currentTime = 0;
+	}
+	window.regenAudio = new Audio('sound.mp3');
+	window.regenAudio.play();
 
     if (words.length > 0) {
         while (generatedWords.length < 5) {
