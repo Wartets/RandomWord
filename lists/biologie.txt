@@ -1,0 +1,229 @@
+mitose
+méiose
+ARN messager
+réplication de l'ADN
+transcription
+traduction
+codon d'initiation
+polymérase de l'ADN
+télomère
+tétrasaccharide
+complexe de pré-initiation
+épissage alternatif
+épissage du pré-ARN
+génome mitochondrial
+génome nucléaire
+splicing
+exons et introns
+régulation épigénétique
+methylation de l'ADN
+facteurs de transcription
+activation de gènes
+séquence promotrice
+pseudogène
+mutation ponctuelle
+réplication semi-conservative
+téléomérase
+ARN ribosomique
+plasmide
+transposon
+réparation de l'ADN
+système CRISPR-Cas9
+histone
+régulation post-transcriptionnelle
+système immunitaire inné
+lymphocytes T
+lymphocytes B
+anticorps
+récepteur de surface
+cytokines
+vésicule synaptique
+phagocytose
+protéasome
+hématopoïèse
+mitochondrie
+chloroplaste
+réaction de la photosynthèse
+vacuole
+phospholipides
+membrane plasmique
+endocytose
+exocytose
+système endomembranaire
+tubules du réticulum endoplasmique
+complexe Golgi
+translocation protéique
+modification post-traductionnelle
+transduction du signal
+voies de signalisation
+phosphorylation
+kinase
+protéine G
+AMP cyclique
+récepteur nucléaire
+régulation allostérique
+enzymes de restriction
+métabolisme des lipides
+cycle de Krebs
+glycolyse
+glucogenèse
+glucogénolyse
+réactions cataboliques
+réactions anaboliques
+ATP synthase
+chaîne respiratoire
+peroxysomes
+mitochondries et apoptose
+autophagie
+osmose
+potentiel membranaire
+transport actif
+transport passif
+système nerveux central
+neurotransmetteur
+synapse chimique
+périphérique nerveuse
+récepteurs ionotropes
+récepteurs métabotropes
+canaux ioniques
+potentiel d'action
+myélinisation
+cellule gliale
+neurone sensoriel
+neurogénèse
+système nerveux autonome
+système parasympathique
+système sympathique
+homéostasie
+thermorégulation
+régulation hormonale
+rétrocontrôle négatif
+rétrocontrôle positif
+glucocorticoïdes
+insuline
+adrénaline
+thyroxine
+régulation de la croissance
+cytokinase
+testostérone
+œstrogènes
+système endocrinien
+inflammation
+réponse immunitaire adaptative
+vaccination
+phénomène de reconnaissance antigénique
+clonage des lymphocytes T
+antigènes et épitopes
+thymus
+dendrites
+macrophage
+bactérie pathogène
+bactérie commensale
+bactérie symbiotique
+microbiote intestinal
+quorum sensing
+mutualisme
+parasitisme
+symbiose
+sélection naturelle
+évolution
+pression de sélection
+variabilité génétique
+adaptation
+spéciation
+fluctuations génétiques
+méiose et recombinaison
+diversité génétique
+génétique des populations
+génétique quantique
+théorie de l'équilibre ponctué
+spéciation allopatrique
+spéciation sympatrique
+gène de l'homéobox
+recombinaison génétique
+inactivation du gène X
+polymorphisme
+génétique mendélienne
+génétique quantitative
+biologie des populations
+écologie des communautés
+niche écologique
+relation prédateur-proie
+succession écologique
+compétition interspécifique
+stratégie r et K
+biodiversité
+biomes
+bassin versant
+pyramides écologiques
+flux trophique
+chaîne alimentaire
+réseau trophique
+pyramide des biomasses
+productivité primaire
+biogéochimie
+cycle de l'azote
+cycle du carbone
+cycle de l'oxygène
+eutrophisation
+dégradation de l'environnement
+écoévolution
+écosystème
+médiation écologique
+phénomène de biomagnification
+effet de serre
+changement climatique
+réchauffement climatique
+adaptation au stress
+phénotype plastique
+génétique évolutive
+physiologie du vieillissement
+cellule souche
+reprogrammation cellulaire
+cellules pluripotentes
+reconstruction tissulaire
+biomolécules
+protéines chaperons
+acides nucléiques
+acides aminés
+peptides
+glycoconjugués
+lipides membranaires
+monosaccharides
+disaccharides
+polysaccharides
+cérébrosides
+complexes glycoprotéiques
+enzymes digestives
+récepteurs d'insuline
+chimiothérapie ciblée
+mécanismes de résistance
+bioproduction
+biotechnologie
+génie génétique
+clone thérapeutique
+virothérapie
+médecine personnalisée
+médecine régénérative
+génétique de la réponse aux médicaments
+réactions enzymatiques
+réaction d'activation
+bilan d'énergie
+création de l'énergie
+énergie libre de Gibbs
+constante de Michaelis
+transfert d'électrons
+théorie des enzymes
+biologie des extrêmophiles
+bioinformatique
+biologie structurale
+génomique fonctionnelle
+épigénétique des maladies
+immunothérapie
+biomarqueurs
+réactions de biotransformation
+réactions de substitution nucléophile
+réactions redox
+cicatrisation
+biosynthèse des protéines
+acides gras essentiels
