@@ -1,6 +1,6 @@
 let words = [];
 const sources = [
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/astroaid.txt", name: "AstroAïd 2025", enabled: false, index: 0 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/astroaid.txt", name: "Samstroversaire", enabled: false, index: 0 },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/wiwiwi.txt", name: "Wiwiwi", enabled: false, index: 1 },
     { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/fr", name: "GameYoga", enabled: true, index: 2 },
     { url: "https://raw.githubusercontent.com/Taknok/French-Wordlist/refs/heads/master/francais.txt", name: "Taknok", enabled: true, index: 3 },
