@@ -501,3 +501,135 @@ Mont Taranaki
 Mont Matterhorn
 Mont Rwenzori
 Mont Huayna Picchu
+Altitude
+Latitude
+Longitude
+Équateur
+Méridien
+Hémisphère
+Continentalité
+Plage
+Fjord
+Delta
+Rivière
+Océan
+Mer
+Lac
+Montagne
+Plaines
+Collines
+Vallée
+Canyon
+Plateau
+Dunes
+Bassin
+Côte
+Archipel
+Péninsule
+Islande
+Île
+Continent
+Région
+Écosystème
+Biome
+Climat
+Température
+Précipitations
+Relief
+Saison
+Courant océanique
+Ressources naturelles
+Végétation
+Biodiversité
+Forêt tropicale
+Savane
+Toundra
+Désert
+Brouillard
+Tempête
+Vagues
+Rivage
+Source
+Cours d’eau
+Bas-fond
+Ressource en eau
+Régime fluvial
+Système fluvial
+Inondation
+Crue
+Pluie acide
+Barrage
+Canal
+Delta fluvial
+Bassin hydrographique
+Marais
+Étang
+Lac glaciaire
+Glacier
+Permafrost
+Cavernes
+Grotte
+Volcan
+Séisme
+Plaque tectonique
+Éruption
+Fosse océanique
+Rift
+Chaine de montagnes
+Fault line
+Tectonique des plaques
+Mer intérieure
+Cité
+Pays
+Frontière
+Territoire
+République
+Régime politique
+Capitalisme
+Socialisme
+Démocratie
+Dystopie
+Géopolitique
+Conflit territorial
+Langue
+Culture
+Ethnie
+Homme de Neandertal
+Civilisation
+Urbanisation
+Ghetto
+Metropole
+Banlieue
+Agglomération
+Conurbation
+Écartement
+Bordure
+Carrefour
+Région urbaine
+Tissu urbain
+Zonage
+Géopark
+Sentier
+Aire protégée
+Géocaching
+Géomorphologie
+Topographie
+Géodésie
+Latitude géographique
+Longitude géographique
+Carte topographique
+Géologie
+Glaciologie
+Géopolitique
+Socioéconomie
+Démographie
+Génétique humaine
+Évolution
+Cohésion sociale
+Horizon
+Paysage
+Exploration
+Géosynchronisation
+Archéologie
+Territoire protégé
+Réserve naturelle
