@@ -11,7 +11,7 @@ const sources = [
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/insultes.txt", name: "Insultes", enabled: false },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/nosense.txt", name: "Aucun Sens", enabled: false },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/wakfu.txt", name: "Wakfu", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/physique.txt", name: "Physique", enabled: false },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/science.txt", name: "Science", enabled: false },
     { url: "https://raw.githubusercontent.com/kuel27/wordlist/main/wordlist.txt", name: "Kuel27 (en)", enabled: false }
 ];
 

@@ -1,0 +1,1009 @@
+symétrie brisée
+interférence quantique
+fonction d'onde
+superposition quantique
+intrication quantique
+effet tunnel
+effet Casimir
+monopôle magnétique
+théorie des cordes
+spacetime courbé
+métrique de Minkowski
+vitesse de lumière
+constante de Planck
+équation de Dirac
+fluctuation quantique
+dilatation du temps
+décohérence quantique
+champs scalaires
+courbure de Ricci
+théorie des champs
+effet photoélectrique
+spin quantique
+loi de conservation
+symétrie de jauge
+relativité générale
+relativité restreinte
+théorie de Yang-Mills
+graviton hypothétique
+lissage de l'univers
+torsion de l'espace-temps
+hyperespace
+modèle standard
+quantification de l'énergie
+momentum de De Broglie
+couplage faible
+interaction forte
+fluctuations primordiales
+inflation cosmologique
+oscillation de neutrinos
+rayonnement de Hawking
+entrelacement quantique
+champ électromagnétique
+équations de Maxwell
+propriétés de l'espace-temps
+fluctuations du vide
+lois de Newton
+relativité locale
+carte de CMB
+anomalie quantique
+holonomie quantique
+énergie noire
+matériau exotique
+second principe de thermodynamique
+création de particules
+effet de lensing gravitationnel
+fonction de partition
+diagramme de Feynman
+symétrie CPT
+nombre baryonique
+nombre leptoniques
+dimension cachée
+propriétés topologiques
+tempête gravitationnelle
+singularité de Schwarzschild
+noyau quantique
+double-slit experiment
+force nucléaire faible
+prison quantique
+métrique d'Einstein
+vortex quantique
+équation de Schrödinger
+théorie du tout
+réduction de la fonction d'onde
+champ de Higgs
+spin-orbite couplé
+chiralisme des neutrinos
+modèle de fermions
+cosmologie quantique
+modèle d'Ising
+matière noire
+isotropie de l'univers
+holonomie quantique
+taux de croissance cosmique
+unification des forces
+paradoxe EPR
+création d'antimatière
+champ de Yang-Mills
+gravitational wave detector
+décohérence environnementale
+bruit de fond cosmologique
+flux de neutrinos
+effet gravitomagnétique
+forces électrofaibles
+quasi-particule
+désintégration beta
+spin 1/2
+effet Josephson
+bose-einstein condensate
+oscillation de neutrinos
+énergie du vide
+symétrie de Lorentz
+travail thermodynamique
+perturbation quantique
+spectre de Planck
+champs quantiques
+propriétés duales
+fonction de Green
+électrodynamique quantique
+période de Planck
+scattering de Compton
+accrétion de matière
+fluctuation du rayonnement
+constante cosmologique
+fluctuation quantique
+densité d'énergie sombre
+valeur propre
+symétrie de gauge
+transition de phase quantique
+calcul quantique
+gravité quantique
+charge électrique
+couplage gravitationnel
+spins liés
+perturbation de la métrique
+gravitational lensing
+méthode des éléments finis
+effet Zeeman
+résonance magnétique
+optique quantique
+élément de Dirac
+soliton topologique
+indéterminisme quantique
+lien spin-orbite
+champ de Lorentz
+formulation Hamiltonienne
+fonction d'onde élastique
+moment cinétique
+quasiparticules liées
+fonctions de Bessel
+fonction de Heaviside
+tension superficielle
+circuit quantique
+détection de photon
+surfaces de Fermi
+modèle à n-corps
+propriétés fractales
+effet Hall quantique
+particules virtuelles
+spin collectif
+inductance quantique
+fluctuations cosmologiques
+relation de Planck-Einstein
+mécanique Hamiltonienne
+symétrie fermionique
+transitions de phase
+effet Einstein-de Haas
+précession de Larmor
+dimension effective
+bruit thermique
+relativité géométrique
+planck constant
+effet Pauli
+oscillations de Kaluza-Klein
+mécanique quantique relativiste
+théorie des anomalies
+condensat fermionique
+multivers
+flux de chaleur quantique
+lenteur relativiste
+potentiel scalar
+effet Unruh
+modèle à chaîne
+dynamique de phase
+expansion de Friedmann
+dynamique des fluides
+instabilité de Rayleigh-Taylor
+décalage vers le rouge
+trou noir primordial
+déformation de Kaluza-Klein
+pulsar de magnétosphère
+propriétés anisotropes
+dynamique de Dirac
+fonctions d’onde associées
+détecteur de photons
+mesures de Wheeler
+relativité non commutative
+indéfinie d'Hamilton
+structure fine
+mesure de Rabi
+calcul sur réseau
+méthode de Feynman
+densité spectrale
+interaction gravitationnelle
+métamatière
+état de Bose-Einstein
+soliton gravitationnel
+énergie de liaison
+réaction exothermique
+chromatographie ionique
+équilibre chimique
+acide de Lewis
+base de Brønsted
+périodicité chimique
+électrolyse inverse
+réaction de substitution
+réaction d’addition
+théorie de la liaison de valence
+isomérie géométrique
+isomérie optique
+écart d'ionisation
+complexe de coordination
+densité de courant
+potentiel de réduction
+potentiel électrochimique
+ordre de réaction
+écart de résonance
+effet inductif
+effet mésomère
+acide de Bronsted-Lowry
+réaction de transposition
+catalyse hétérogène
+catalyse homogène
+réactivité nucléophile
+cinétique chimique
+complexe organométallique
+ion complexe
+système tampons
+chlorophylle a
+synthèse en chaîne
+réaction radicalaire
+dissociation homogène
+épissage chimique
+système polyphasique
+isotopes stables
+loi de Hess
+réactivité acido-basique
+solvatochromisme
+mélange azéotropique
+réaction de Diels-Alder
+intermédiaire réactionnel
+réaction concertée
+réaction de Michael
+réaction de réduction
+ciclosiloxanes
+complexes de transition
+complexe chelaté
+acide carboxylique
+réaction d'oxydoréduction
+réaction de condensation
+polarisation électronique
+acide perfluoréthylé
+réaction de déshydratation
+réaction de halogénation
+système en équilibre dynamique
+composition stoechiométrique
+propriétés thermodynamiques
+synthèse en une étape
+hydrogénation catalytique
+mélange homogène
+système réactionnel
+réaction d’élongation
+effet de solvant
+propriétés cinétiques
+complexation ionique
+mécanisme de réaction
+enthalpie libre
+rétrogradation chimique
+isomérisation thermique
+point d'ébullition normal
+lien covalent
+réaction d'élimination
+conduction ionique
+réactivité électrophile
+électrophorèse capillaire
+champ chimique
+mécanisme SN2
+composé ionique
+réaction en chaîne
+isomère de coordination
+effet de champ cristallin
+réaction de Finkelstein
+fonctionnalisation organique
+affinité électronique
+géométrie moléculaire
+cinétique de réaction
+effet catalytique
+période de demi-vie
+réaction d'additif
+pente de réaction
+acide sulfurique
+transition de phase
+système bidimensionnel
+réaction de polymérisation
+acide aminé
+pH hydrogène
+chimie supramoléculaire
+combinaison radicalaire
+caractéristique isotopique
+concentration molaire
+réaction d’hydrolyse
+dissolution gazeuse
+réactions de réarrangement
+acide phénolique
+propriétés acides
+complexe hydrolytique
+soluté dispersé
+réaction de Mannich
+propriétés pH dépendantes
+propriétés de transport
+équilibre acido-basique
+couplage spin-orbite
+énergie d’activation
+anomalie chimique
+réaction de cyclocrosslinking
+cinétique de dissociation
+échange d'ions
+catalyse photochimique
+potentiel d'ionisation
+loi de Beer-Lambert
+système de cristallisation
+réaction de combustion
+pH d’un tampon
+spectre d’absorption
+point isoélectrique
+réaction en milieu acide
+alcalinité totale
+valence d'oxydation
+composé organométallique
+catalyseurs de transition
+solvant apolaire
+hydroxyde métallique
+réaction d’oxydo-réduction
+solution tamponnée
+réaction de substitution nucléophile
+propriétés de solubilité
+réaction de copolymérisation
+effet de polarisation
+solubilité ionique
+réaction de polymérisation en chaîne
+composé acide
+réaction de condensation aldolique
+réaction en milieux aqueux
+polymère synthétique
+propriétés spectroscopiques
+cinétique de dégradation
+réaction d'hydratation
+diffusion Brownienne
+propriétés de base
+réaction de déprotonation
+pont hydrogène
+acide chlorhydrique
+isomérie cis-trans
+mécanisme électrophile
+triose phosphate isomerase
+composé organique
+phénomène d’adsorption
+disproportionnement
+concentration en ions
+composé ionique
+réaction de réducteur
+solvabilité d’un solvant
+disposition des électrons
+propriétés de diffusion
+solubilité dans l’eau
+modèle moléculaire
+catalyse de surface
+propriétés de liaison
+composé intermédiaire
+composé linéaire
+réaction d’addition électrophile
+réaction de cyclisation
+décharge électrochimique
+réaction en milieu anhydre
+réaction de substitution électrophile
+diffusion moléculaire
+réaction de coprécipitation
+transfert de charge
+réaction de chélation
+variation de conductivité
+chemisorption
+réaction d'addition radicalaire
+réaction de polymérisation anionique
+composé acide
+énergie d'activation
+mélange idéal
+propriétés isotopiques
+chimie des surfaces
+réaction de déprotonation
+catalyse hétérogène
+influence du solvant
+formation de complexes
+mitose
+méiose
+ARN messager
+réplication de l'ADN
+transcription
+traduction
+codon d'initiation
+polymérase de l'ADN
+télomère
+tétrasaccharide
+complexe de pré-initiation
+épissage alternatif
+épissage du pré-ARN
+génome mitochondrial
+génome nucléaire
+splicing
+exons et introns
+régulation épigénétique
+methylation de l'ADN
+facteurs de transcription
+activation de gènes
+séquence promotrice
+pseudogène
+mutation ponctuelle
+réplication semi-conservative
+téléomérase
+ARN ribosomique
+plasmide
+transposon
+réparation de l'ADN
+système CRISPR-Cas9
+histone
+régulation post-transcriptionnelle
+système immunitaire inné
+lymphocytes T
+lymphocytes B
+anticorps
+récepteur de surface
+cytokines
+vésicule synaptique
+phagocytose
+protéasome
+hématopoïèse
+mitochondrie
+chloroplaste
+réaction de la photosynthèse
+vacuole
+phospholipides
+membrane plasmique
+endocytose
+exocytose
+système endomembranaire
+tubules du réticulum endoplasmique
+complexe Golgi
+translocation protéique
+modification post-traductionnelle
+transduction du signal
+voies de signalisation
+phosphorylation
+kinase
+protéine G
+AMP cyclique
+récepteur nucléaire
+régulation allostérique
+enzymes de restriction
+métabolisme des lipides
+cycle de Krebs
+glycolyse
+glucogenèse
+glucogénolyse
+réactions cataboliques
+réactions anaboliques
+ATP synthase
+chaîne respiratoire
+peroxysomes
+mitochondries et apoptose
+autophagie
+osmose
+potentiel membranaire
+transport actif
+transport passif
+système nerveux central
+neurotransmetteur
+synapse chimique
+périphérique nerveuse
+récepteurs ionotropes
+récepteurs métabotropes
+canaux ioniques
+potentiel d'action
+myélinisation
+cellule gliale
+neurone sensoriel
+neurogénèse
+système nerveux autonome
+système parasympathique
+système sympathique
+homéostasie
+thermorégulation
+régulation hormonale
+rétrocontrôle négatif
+rétrocontrôle positif
+glucocorticoïdes
+insuline
+adrénaline
+thyroxine
+régulation de la croissance
+cytokinase
+testostérone
+œstrogènes
+système endocrinien
+inflammation
+réponse immunitaire adaptative
+vaccination
+phénomène de reconnaissance antigénique
+clonage des lymphocytes T
+antigènes et épitopes
+thymus
+dendrites
+macrophage
+bactérie pathogène
+bactérie commensale
+bactérie symbiotique
+microbiote intestinal
+quorum sensing
+mutualisme
+parasitisme
+symbiose
+sélection naturelle
+évolution
+pression de sélection
+variabilité génétique
+adaptation
+spéciation
+fluctuations génétiques
+méiose et recombinaison
+diversité génétique
+génétique des populations
+génétique quantique
+théorie de l'équilibre ponctué
+spéciation allopatrique
+spéciation sympatrique
+gène de l'homéobox
+recombinaison génétique
+inactivation du gène X
+polymorphisme
+génétique mendélienne
+génétique quantitative
+biologie des populations
+écologie des communautés
+niche écologique
+relation prédateur-proie
+succession écologique
+compétition interspécifique
+stratégie r et K
+biodiversité
+biomes
+bassin versant
+pyramides écologiques
+flux trophique
+chaîne alimentaire
+réseau trophique
+pyramide des biomasses
+productivité primaire
+biogéochimie
+cycle de l'azote
+cycle du carbone
+cycle de l'oxygène
+eutrophisation
+dégradation de l'environnement
+écoévolution
+écosystème
+médiation écologique
+phénomène de biomagnification
+effet de serre
+changement climatique
+réchauffement climatique
+adaptation au stress
+phénotype plastique
+génétique évolutive
+physiologie du vieillissement
+cellule souche
+reprogrammation cellulaire
+cellules pluripotentes
+reconstruction tissulaire
+biomolécules
+protéines chaperons
+acides nucléiques
+acides aminés
+peptides
+glycoconjugués
+lipides membranaires
+monosaccharides
+disaccharides
+polysaccharides
+cérébrosides
+complexes glycoprotéiques
+enzymes digestives
+récepteurs d'insuline
+chimiothérapie ciblée
+mécanismes de résistance
+bioproduction
+biotechnologie
+génie génétique
+clone thérapeutique
+virothérapie
+médecine personnalisée
+médecine régénérative
+génétique de la réponse aux médicaments
+réactions enzymatiques
+réaction d'activation
+bilan d'énergie
+création de l'énergie
+énergie libre de Gibbs
+constante de Michaelis
+transfert d'électrons
+théorie des enzymes
+biologie des extrêmophiles
+bioinformatique
+biologie structurale
+génomique fonctionnelle
+épigénétique des maladies
+immunothérapie
+biomarqueurs
+réactions de biotransformation
+réactions de substitution nucléophile
+réactions redox
+cicatrisation
+biosynthèse des protéines
+acides gras essentiels
+mesure de Lebesgue
+topologie algébrique
+espace de Banach
+système dynamique
+réduction de Galois
+espaces vectoriels
+variétés différentiables
+théorème de Brouwer
+espace topologique
+phénomène de bifurcation
+mappage de Schröder
+géométrie hyperbolique
+théorie des groupes
+analyse fonctionnelle
+intégrale de Stieltjes
+fonction de Riemann
+combinatoire algébrique
+convergence uniforme
+analyse de Fourier
+spectre d'un opérateur
+fractales auto-similaires
+problème de P vs NP
+analyse spectrale
+méthode des différences finies
+convergence absolue
+fonction holomorphe
+fonction à variations bornées
+graphe orienté
+phénomène de Percolation
+fonction de Dirichlet
+catégorie de topoi
+algèbre de Lie
+topologie de Zariski
+topologie métrique
+prouesse de Galois
+solution analytique
+relativité générale
+courbure de Riemann
+espace de Hilbert
+cardinal d'un ensemble
+matrice de Gram
+calcul tensoriel
+espace de Hilbert
+transformation de Fourier
+fonction de Green
+groupe d'homotopie
+théorème de Fermat
+théorème de Noether
+symétrie de Lie
+espaces de Sobolev
+problème de Cauchy
+fonction continue
+espaces de Sobolev
+fonctions discrètes
+réduction de Frobenius
+modules projectifs
+polynôme minimal
+forme quadratique
+réseau de nombres
+entiers algébriques
+champ de nombres
+théorie des représentations
+notion d'invariant
+problème de l'horloge de Zermelo
+coupure de Khinchin
+algèbre commutative
+méthode de Monte Carlo
+algèbre homologique
+calcul des résidus
+courbure de Gauss
+points fixes
+fonctions transcendantes
+automorphismes de groupes
+groupes finis
+monomorphismes
+bijections sur des ensembles infinis
+variétés de dimension infinie
+série de Laurent
+résidus d'une singularité
+fonction de Riemann zêta
+structure algébrique
+problème de la conjecture de Hodge
+fibrés vectoriels
+phénomène de Cantor
+résoluble de Sylow
+équation de Navier-Stokes
+théorème de Banach-Tarski
+notation de Landau
+notion de limite
+groupes de Lie semi-simples
+suite de Cauchy
+problème de Riemann
+théorème de Kolmogorov
+algèbre de Clifford
+formules de Bayes
+fonction de transfert
+convergence ponctuelle
+théorie des équations aux dérivées partielles
+algèbre de Jordan
+opérateur différentiel
+transformée de Laplace
+fonction de Bessel
+points d'accumulation
+logique mathématique
+méthode des résidus
+équation de Schrödinger
+induction de groupes
+géométrie projective
+fonction de Dirac
+théorie des catégories
+polytope convexes
+matrices inversibles
+méthodes de calcul formel
+relations de récurrence
+calcul des variations
+formes différentielles
+intégrale de contour
+intégrale de Cauchy
+groupe de Poincaré
+inégalité de Schwarz
+complexité algorithmique
+analyse de Fourier rapide
+généralisation de Pythagore
+problème de Navier-Stokes
+théorie des graphes
+calcul de Minkowski
+théorème de Zermelo-Fraenkel
+généralisations de Green
+problème de l'infini
+théorème de Cayley
+démonstration de Weil
+transformation de Möbius
+groupe abélien
+parallélisme des droites
+hyperbolicité
+notion de topologie uniforme
+interpolation polynomiale
+distribution des premiers
+ensemble de Cantor
+espace de Riesz
+groupe de Galois
+hyperplan affine
+ensemble de points fixes
+transformée en ondelettes
+cohomologie de de Rham
+harmoniques sphériques
+relativité restreinte
+bases orthogonales
+théorème de Poincaré
+systèmes linéaires
+fonctions à coupure
+topologie de Hausdorff
+représentation matricielle
+algèbre de matrices
+forme bilinéaire
+calcul des résidus
+graphes bipartis
+généralisme de Leibniz
+tenseur de Christoffel
+topologie des variétés
+espaces de Kähler
+fonctions à plusieurs variables
+structure du groupe
+notion d’espace compact
+convergence faible
+série de Fourier
+réseaux euclidiens
+groupe de Pélage
+produit tensoriel
+problème de Fermat
+topologie faible
+intégrale de Lebesgue
+transformation affine
+groupe de Klein
+sous-espaces vectoriels
+mesures de probabilité
+polynôme de Lagrange
+forme linéaire
+propriétés de contiguïté
+module libre
+convergence en loi
+groupe libre
+suite de Fibonacci
+algèbre de Hopf
+convergence uniforme
+morphisme de catégories
+application affine
+matrice symétrique
+espace projectif
+produit scalaire
+géométrie algébrique
+théorème de Galois
+extension de corps
+groupe d'automorphisme
+fonction entière
+systèmes d'équations linéaires
+fonction hypergéométrique
+algorithme de Dijkstra
+calcul parallèle
+compression de Huffman
+réseau de neurones convolutif
+régression logistique
+analyse de complexité
+calcul distribué
+recherche binaire
+tri par fusion
+arbre binaire de recherche
+optimisation combinatoire
+graphes orientés acycliques
+problème du voyageur de commerce
+complexité NP-complet
+théorie des automates
+algorithmes gloutons
+programmation dynamique
+structuration en graphe
+encryption symétrique
+encryption asymétrique
+fonction de hachage
+signature numérique
+système de fichiers distribués
+algorithmique parallèle
+vérification formelle
+programmes à données partagées
+modèle de calcul Turing
+machine de Turing
+problème de Halting
+système d'exploitation temps réel
+réplication de données
+parallélisme de données
+générateurs de nombres pseudo-aléatoires
+problème P vs NP
+décryptage RSA
+algorithmes de recherche
+arbre de décision
+fonction d'activation
+réseaux bayésiens
+recherche par force brute
+structures de données non linéaires
+compression sans perte
+réseaux de Markov cachés
+algorithmes de tri
+partitionnement de graphes
+fonction de coût
+réduction de dimensionnalité
+algorithmes de clustering
+méthodes de Monte Carlo
+optimisation stochastique
+analyse de performances
+représentation par arbre
+tests de validité
+reconnaissance de formes
+recherche heuristique
+modèle de machine de Markov
+compilateurs
+synchronisation de processus
+fonctionnement multi-thread
+circuit logique
+logique booléenne
+fonctions récursives
+données en streaming
+tables de hachage
+allocation dynamique
+modèles de langages formels
+analyse de programmes
+détection de deadlock
+ordre topologique
+algorithmes de kruskal
+programmation orientée objet
+complexité algorithmique
+arbre AVL
+parcours en profondeur
+parcours en largeur
+graphe biparti
+algorithme de Bellman-Ford
+piles et files
+ordonnancement de tâches
+cache mémoire
+algorithme de Floyd-Warshall
+protocole de communication
+réseaux neuronaux profonds
+vision par ordinateur
+recherche optimisée
+apprentissage supervisé
+apprentissage non supervisé
+réseaux de neurones récurrents
+analyse syntaxique
+programmes déclaratifs
+architectures de processeurs
+langage C
+mémoire virtuelle
+systèmes embarqués
+interface utilisateur
+interface en ligne de commande
+processus multithread
+algorithmes de chiffrement
+chiffrement de flux
+chiffrement par bloc
+algorithmes de signature
+RSA
+Diffie-Hellman
+protocole HTTPS
+attaque par injection SQL
+atténuation des risques informatiques
+attouchements à l'intégrité des données
+contrôle de version
+automatisation des tests
+génération de code
+graphe de dépendances
+compilation incrémentale
+traitement des flux
+méthode de calcul approximatif
+algorithme de KMP
+modèle de machine de von Neumann
+systèmes de bases de données NoSQL
+bases de données relationnelles
+requêtes SQL complexes
+indexation de données
+langage Python
+exploitation des données massives
+cloud computing
+serveurs web
+vérification de la parité
+algorithmes de recherche A*
+approches basées sur les graphes
+parallélisme à grande échelle
+modèle de calcul MapReduce
+algorithmes de la théorie des graphes
+concurrence des processus
+technologies de conteneurs
+fonctionnement d’un compilateur
+réseaux peer-to-peer
+algorithmes de recherche optimisée
+serveurs DNS
+système de gestion de contenu
+cryptographie quantique
+sécurisation des communications
+optimisation des bases de données
+machines virtuelles
+moteur de recherche
+modèle de simulation Monte Carlo
+réseaux de neurones convolutionnels
+algorithmes génétiques
+graphes de flux
+problème de flot maximal
+problème de planification
+cryptage de disque
+logique floue
+réduction de tâches
+système de surveillance réseau
+traitement de texte naturel
+systèmes de recommandation
+système de détection d'intrusion
+protocole TCP/IP
+programmation logique
+calcul distribué avec MapReduce
+environnement de développement intégré
+moteur de recherche à base de graphes
+divulgation d’informations confidentielles
+optimisation par essaim de particules
+réseaux neuronaux à rétropropagation
+détection d'anomalies
+programmation fonctionnelle
+algorithmes d'apprentissage par renforcement
+réseaux de neurones à auto-apprentissage
+serveur HTTP
+machine virtuelle Java
+algorithmes d'indexation
+protocole d'accès au média
+mémoire cache LRU
+algorithmes de compression
+calcul à haute performance
+scalabilité d'un réseau
+système distribué sans état
+sécurité des protocoles
+protocole de transport sécurisé
+architecture en microservices
+modélisation de processus d’affaires
+calcul de matrice
+utilisation de graphes orientés
+modélisation des flux de données
+formation d'arbres binaires
+filtrage collaboratif
+théorème de Cook-Levin
+valeurs propres de matrices
+optimisation de performances systèmes
+fonctionnalités de l'OS
+multitâches et exécution parallèle
+sécurisation des échanges cryptés
+stratégies de partitionnement de graphes
