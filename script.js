@@ -110,7 +110,6 @@ function createSourceTable() {
     });
 }
 
-
 document.addEventListener("keydown", function(event) {
     if (event.key === " " || event.key === "Enter") {
         event.preventDefault();
