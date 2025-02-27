@@ -1,9 +1,12 @@
 let words = [];
 const sources = [
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/astroaid.txt", name: "AstroAïd", enabled: true },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/lol.txt", name: "Ligue of Legends", enabled: false },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/astroaid.txt", name: "AstroAïd 2025", enabled: false },
     { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/fr", name: "GameYoga", enabled: true },
-    { url: "https://raw.githubusercontent.com/Taknok/French-Wordlist/refs/heads/master/francais.txt", name: "Taknok", enabled: false },
+    { url: "https://raw.githubusercontent.com/Taknok/French-Wordlist/refs/heads/master/francais.txt", name: "Taknok", enabled: true },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/lol.txt", name: "Ligue of Legends", enabled: false },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/mystic.txt", name: "Mystique & SFi", enabled: false },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/darkdarkVOLAIRE.txt", name: "darkdarkVOLAIRE", enabled: false },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/wakfu.txt", name: "Wakfu", enabled: false },
     { url: "https://raw.githubusercontent.com/kuel27/wordlist/main/wordlist.txt", name: "Kuel27", enabled: false }
 ];
 

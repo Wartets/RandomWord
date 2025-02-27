@@ -1,0 +1,388 @@
+wakfu
+stasis
+dofus
+ogrest
+féca
+osamodas
+énutrof
+sram
+xélor
+écaflip
+éniripsa
+iop
+crâ
+sadida
+sacrieur
+pandawa
+roublard
+zobal
+ouginak
+steamer
+éliotrope
+huppermage
+gobgob
+dragosa
+frappe du craqueleur
+boubourse
+phorreur
+gisement
+phorzerker
+piège sram
+double sram
+cadran
+sinistro
+hydruille
+momification
+arbre à chat
+tarot d’ecaflip
+pupuce
+lapino
+super lapino
+marque éniripsa
+colère de iop
+super iop punch
+balise crâ
+flèche destructrice
+roulade
+flèche chercheuse
+surpuissante
+folle
+bloqueuse
+sacrifiée
+goulue
+gonflable
+arbre
+ronce
+cage de sang
+armure sanguine
+sacrifice
+cinétose
+tonneau
+karcham
+chamrak
+bombe
+roublabot
+masque de la classe
+masque du pleutre
+masque du psychopate
+dard dare
+chienchien
+proie
+saccade
+os à moelle
+ougigarou
+microbot
+stasification
+tourelle
+cannonier
+cuirasse
+bloc
+surchauffe
+surpression
+portail éliotrope
+exalté
+serein
+wakméha
+lumière
+forteresse solaire
+feu-follet
+mur d’énergie
+coeur de feu
+brise quadramentale
+air
+feu
+terre
+eau
+point d’action
+point de mouvement
+point de wakfu
+portée
+armure
+vie
+initiative
+tacle
+esquive
+sagesse
+prospection
+volonté
+art du barda
+contrôle
+monocible
+distance
+mêlée
+zone
+berserk
+soin
+critique
+parade
+coup critique
+volonté
+larme d’ogrest
+père nowel
+mimic
+salbatroce
+polter
+shushu
+rushu
+peroucan
+fotome
+ratou
+noxine
+tofu
+bouftou
+brâkmar
+bonta
+sufokia
+amakna
+astrub
+chacha
+piou
+larve
+prespic
+boo
+gligli
+chef de guerre
+wapin
+grouillard
+arakne
+gugu
+crapaud mufle
+craqueleur
+bouftou royal
+tofu royal
+shin larve
+chafer
+abraknyde
+cucupidon
+bilby
+moomouche
+pissenlit diabolique
+rose démoniaque
+moogrr
+bwork
+slek
+grinch
+pâti
+cwabe
+kralamour
+kokoko
+skouale
+bouftou sauvage
+kaskargo
+corbac
+truche
+moskito
+milimulou
+mulou
+smare
+moine
+megathon
+chauffe-souris
+trool
+scarafeuille
+goule
+orrok
+scaraboss
+vampyro
+merkator
+riktus
+bilbymoule
+craqueboule
+chuchoteur
+mulmouth
+wabbit
+nonne
+reine slek
+gelée
+bilbyboy
+bilbygirl
+bellaphone
+glagla
+yech’ti’wawa
+flaqueux
+méka
+pichon
+scorpique
+zespadon
+taure
+skouale
+cacterre
+black wabbit
+lenald
+wa wabbit
+spore
+missiz frizz
+bulldague
+sramva
+dranipoch
+chêne mou
+telob
+wobot
+hulors
+xélots
+krosmoglob
+gloutoblop
+plantala
+kama
+kamas
+encapuchonné
+javého
+pandora
+patapoutre
+kali
+gerbouille
+dionatrape
+kannivore
+Brise-Tibias
+kanniboul
+dunîl
+crocodaille
+pandissidan
+blérox
+dormor
+fantôme pandala
+fléopard
+darkli moon
+dragoeuf
+pandore
+kannistère
+roi dunil
+grozépine
+hibourg
+soiffard
+comte harebourg
+aguabrial
+krosmos
+minibulia
+cendragon
+blérwitch
+sor’hon
+excarnus
+milkar
+corbeau noir
+magmog
+dragon-cochon
+nogord
+ombrage
+serre d’acier
+foul moon
+shukrute
+inglorium
+srambad
+xélorium
+écaflipus
+énutrosor
+mont zinit
+zinit
+tour minérale
+ile sberg
+kara
+fourré de tonkult
+plaine de kania
+ile de rok
+royaume sadida
+foire du trool
+bibliotemple
+pandalousie
+saharach
+ile des wabbits
+domaine sauvage
+tainela
+royaume de chuchoku
+katrepat
+plage sauvage
+grotte slek
+bas flanc
+haut flanc
+grotte du dor’mor
+sommet
+poup island
+champs qui chantent
+emelka
+dune kane
+ile aux moines
+viticultistes
+bilbyza
+récif des shushardes
+champs pabong
+landes de sidimote
+macheville
+pêcheur
+trappeur
+forestier
+mineur
+herboriste
+paysan
+boulanger
+ébéniste
+tailleur
+armurier
+bijoutier
+cuisinier
+maitre d’armes
+maroquinier
+guilde
+Method Wakfu
+havre-sac
+havre-monde
+zaap
+hôtel des ventes
+enchantement
+dot
+tourtobot
+croum
+boune
+pingwii
+anathar
+dauge
+abomination apprivoisée
+koinkoin
+snouffle
+krosmaster
+dragoune
+sain ballotin
+halouine
+saint patraque
+pwâk
+gouverneur
+vice-gouverneur
+chef des gardes
+général des soldats
+ingénieur météo
+trésorier
+challengeur
+écologiste
+membre de clan
+chasseur d’otomaï
+otomaï
+ullu
+maître hiboss
+géror
+Ruel
+Amalia
+Yugo
+Nox
+Tristepin
+Goultard
+Evangéline
+Armand Sheran-Sharm
+Pépé-Pâle
+silo
+dragodinde
+potion de rappel
+raide boule
+croupier
+donjon
+phénix
+mine
+banque
+puit
+prims
+boufbowl
+vidéant
+ravageur
+phytomorphes
+anathar
+égaré
+démhorrible
+osamosa
