@@ -5,10 +5,15 @@
 	user-select: none;
 }
 
+html, body {
+    width: 100%;
+    overflow: auto;
+}
+
 body {
 	font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
 	display: flex;
-	height: 100vh;
+    min-height: 100vh;
 	margin: 0;
 	background: linear-gradient(180deg, #e8eaea, #784692);
 	justify-content: center;
@@ -327,4 +332,31 @@ footer a:hover {
 #buttons-panel button:hover {
 	background: #005ecb;
 	transform: scale(1.02);
+}
+
+@media screen and (max-width: 600px) {
+	.main-container {
+		flex-direction: column;
+		align-items: center;
+		flex-grow: 1;
+		padding-top: 20px;
+		padding-bottom: 0px;
+	}
+	#source-container {
+		max-height: 200px;
+		max-width: 500px;
+		padding: 5px;
+		display: grid;
+		gap: 15px;
+		padding: 5px;
+		border-radius: 15px;
+		box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+		text-align: center;
+		max-width: 500px;
+		max-height: none;
+		overflow-y: auto;
+		width: 80%;
+		padding-bottom: 50px;
+	}
+
 }
