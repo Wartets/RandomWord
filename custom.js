@@ -238,7 +238,7 @@ const customWords = [
 	'salade césarienne',
 	'enculé par romulus avec un couteau',
 	'enculé par remus avec une fourchette',
-	'à 5 ans et demi j\'avais déja ma ferrari, je pouvais pas la conduire bien sûr, j\'etais trop petit',
+	'à 5 ans et demi j\'avais déja ma ferrari,je pouvais pas la conduire bien sûr,j\'etais trop petit',
 	'la question est vite répondue',
 	'haram',
 	'the devil lives in your fears',
