@@ -17,6 +17,7 @@ const sources = [
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/biologie.txt", name: "Biologie", enabled: false },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/maths.txt", name: "Mathématiques", enabled: false },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/informatique.txt", name: "Informatique", enabled: false },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/geo.txt", name: "Géographie", enabled: false },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/moyenage.txt", name: "Moyen-Âge", enabled: false },
     { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/lovsex.txt", name: "Love & Sex", enabled: false },
 ];

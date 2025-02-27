@@ -1,0 +1,503 @@
+Afghanistan
+Afrique du Sud
+Albanie
+Algérie
+Allemagne
+Andorre
+Angola
+Antigua-et-Barbuda
+Arabie Saoudite
+Argentine
+Arménie
+Australie
+Autriche
+Azerbaïdjan
+Bahamas
+Bahreïn
+Bangladesh
+Barbade
+Belgique
+Belize
+Bénin
+Bhoutan
+Biélorussie
+Bocas del Toro
+Bolivie
+Bosnie-Herzégovine
+Botswana
+Brésil
+Brunei
+Bulgarie
+Burkina Faso
+Burundi
+Cambodge
+Cameroun
+Canada
+Cap-Vert
+Centrafrique
+Chili
+Chine
+Chypre
+Colombie
+Comores
+Congo
+Cook
+Costa Rica
+Croatie
+Cuba
+Danemark
+Djibouti
+Dominique
+Égypte
+Équateur
+Érythrée
+Espagne
+Estonie
+Eswatini
+États-Unis
+Éthiopie
+Fidji
+Finlande
+France
+Gabon
+Gambie
+Géorgie
+Ghana
+Grèce
+Grenade
+Guadeloupe
+Guatemala
+Guinée
+Guinée-Bissau
+Guyana
+Haïti
+Honduras
+Hongrie
+Inde
+Indonésie
+Irak
+Iran
+Irlande
+Islande
+Israël
+Italie
+Jamaïque
+Japon
+Jordanie
+Kazakhstan
+Kenya
+Kirghizistan
+Kiribati
+Koweït
+Laos
+Lesotho
+Lettonie
+Liban
+Liberia
+Libye
+Liechtenstein
+Lituanie
+Luxembourg
+Madagascar
+Malaisie
+Malawi
+Maldives
+Mali
+Malte
+Maroc
+Marshall
+Maurice
+Mauritanie
+Mexique
+Micronésie
+Moldavie
+Monaco
+Mongolie
+Monténégro
+Mozambique
+Namibie
+Nauru
+Népal
+Nicaragua
+Niger
+Nigéria
+Niue
+Norvège
+Nouvelle-Zélande
+Oman
+Ouganda
+Ouzbékistan
+Pakistan
+Palaos
+Panama
+Papouasie-Nouvelle-Guinée
+Paraguay
+Pays-Bas
+Pérou
+Philippines
+Pologne
+Portugal
+Qatar
+République tchèque
+République Dominicaine
+République du Congo
+Roumanie
+Royaume-Uni
+Rwanda
+Saint-Kitts-et-Nevis
+Saint-Marin
+Saint-Vincent-et-les-Grenadines
+Sainte-Lucie
+Salvador
+Samoa
+Sao Tomé-et-Principe
+Sénégal
+Serbie
+Seychelles
+Sierra Leone
+Singapour
+Slovaquie
+Slovénie
+Somalie
+Soudan
+Soudan du Sud
+Sri Lanka
+Suède
+Suisse
+Syrie
+Sénégal
+Tadjikistan
+Taïwan
+Tanzanie
+Tchad
+Thaïlande
+Timor-Leste
+Togo
+Tonga
+Trinité-et-Tobago
+Tunisie
+Turkménistan
+Turquie
+Tuvalu
+Ukraine
+Uruguay
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Yémen
+Zambie
+Zimbabwe
+Kaboul
+Le Cap
+Tirana
+Alger
+Berlin
+Andorre-la-Vieille
+Luanda
+Saint John's
+Riyad
+Buenos Aires
+Erevan
+Canberra
+Vienne
+Bakou
+Nassau
+Manama
+Dacca
+Bridgetown
+Bruxelles
+Belmopan
+Porto-Novo
+Thimphou
+Minsk
+Lomé
+La Paz
+Sarajevo
+Gaborone
+Brasília
+Bandar Seri Begawan
+Sofia
+Ouagadougou
+Bujumbura
+Phnom Penh
+Yaoundé
+Ottawa
+Praia
+Bangui
+Santiago
+Pékin
+Nicosie
+Bogotá
+Moroni
+Kinshasa
+Brazzaville
+Avarua
+San José
+Zagreb
+La Havane
+Pristina
+Porto-Novo
+Athènes
+St. George's
+Saint-Domingue
+Copenhague
+Djibouti
+Roseau
+Quito
+Asmara
+Madrid
+Tallinn
+Mbabane
+Washington D.C.
+Addis-Abeba
+Suva
+Helsinki
+Paris
+Libreville
+Banjul
+Tbilissi
+Accra
+Athènes
+Conakry
+Georgetown
+Port-au-Prince
+Tegucigalpa
+Budapest
+New Delhi
+Djakarta
+Bagdad
+Téhéran
+Dublin
+Reykjavik
+Jérusalem
+Rome
+Kingston
+Tokyo
+Amman
+Almaty
+Nairobi
+Bichkek
+Tarawa
+Koweït
+Vientiane
+Maseru
+Riga
+Beirut
+Monrovia
+Tripoli
+Vaduz
+Vilnius
+Luxembourg
+Antananarivo
+Kuala Lumpur
+Lilongwé
+Malé
+Bamako
+La Valette
+Rabat
+Majuro
+Nouakchott
+Mexico
+Palikir
+Chisinau
+Monaco
+Oulan-Bator
+Podgorica
+Maputo
+Windhoek
+Ngerulmud
+Kathmandu
+Managua
+Niamey
+Abuja
+Alofi
+Oslo
+Port Moresby
+Montevideo
+Warsaw
+Lisbonne
+Doha
+Prague
+Santo Domingo
+Brazzaville
+Budapest
+London
+Kigali
+Basseterre
+San Marino
+Kingstown
+Castries
+San Salvador
+Apia
+São Tomé
+Dakar
+Belgrade
+Victoria
+Freetown
+Singapour
+Bratislava
+Ljubljana
+Mogadiscio
+Khartoum
+Juba
+Colombo
+Stockholm
+Berne
+Damascus
+Douchanbé
+Taipei
+Dodoma
+Lomé
+Nuku'alofa
+Port-of-Spain
+Tunis
+Achgabat
+Ankara
+Funafuti
+Kyiv
+Montevideo
+Port-au-Prince
+Helsinki
+Warsaw
+Yaoundé
+Lima
+Helsinki
+Wellington
+Vatican
+Caracas
+Hanoï
+Sana'a
+Lusaka
+Harare
+Océan Atlantique
+Océan Pacifique
+Océan Indien
+Océan Arctique
+Océan Austral
+Mer Méditerranée
+Mer des Caraïbes
+Mer de Chine méridionale
+Mer de Chine orientale
+Mer du Japon
+Mer d'Arabie
+Mer de Béring
+Mer du Nord
+Mer Baltique
+Mer de Barents
+Mer de Norvège
+Mer Rouge
+Mer Caspienne
+Mer Noire
+Mer de Weddell
+Mer de Scotia
+Mer d'Okhotsk
+Mer de Bismarck
+Mer de Timor
+Mer de Coral
+Mer d'Andaman
+Mer d'Irlande
+Mer du Labrador
+Mer des Philippines
+Mer d'Azov
+Mer d'Occidentale
+Mer de Tasman
+Mer de Java
+Mer de Sulawesi
+Mer de Banda
+Mer de Sulu
+Mer d'Halmahera
+Mer de Célèbes
+Mer de Moluques
+Mer de Makassar
+Mer d'Arafura
+Mer de Timor
+Mer de Java
+Mer de Banda
+Mer de Sulu
+Mer de Célèbes
+Mer de Moluques
+Mer de Makassar
+Mer d'Arafura
+Mer d'Hudson
+Mer de Beaufort
+Mer de Chukchi
+Mer de Laptev
+Mer de Kara
+Mer de Barents
+Mer d'Irlande
+Mer d'Alboran
+Mer de Ligurie
+Mer Adriatique
+Mer Ionienne
+Mer Égée
+Mer de Marmara
+Mer de Bretagne
+Mer de la Manche
+Mer du Labrador
+Mer de Baffin
+Mer de Chukchi
+Mer de Laptev
+Mer de Kara
+Mer d'Andaman
+Mer de Java
+Mer de Sulawesi
+Mer de Banda
+Mer de Sulu
+Mer de Timor
+Mer de Célèbes
+Mer de Moluques
+Mer de Makassar
+Mer d'Arafura
+Mer d'Arabie
+Mer de Chine méridionale
+Mer de Chine orientale
+Mer d'Oman
+Mer de Weddell
+Mer de Scotia
+Mer d'Okhotsk
+Mer de Bismarck
+Mer de Timor
+Mer de Coral
+Mer de Bering
+Mer du Nord
+Mer de Norvège
+Mer Rouge
+Mer Caspienne
+Mer Noire
+Mer d'Ouzbékistan
+Afrique
+Amérique du Nord
+Amérique du Sud
+Antarctique
+Asie
+Europe
+Océanie
+Mont Everest
+Mont Kilimandjaro
+Mont McKinley
+Mont Elbrouz
+Mont Blanc
+Mont Fuji
+Mont K2
+Mont Kilimandjaro
+Mont Aconcagua
+Mont Denali
+Mont Annapurna
+Mont Cho Oyu
+Mont Lhotse
+Mont Manaslu
+Mont Dhaulagiri
+Mont Makalu
+Mont Kanchenjunga
+Mont Shishapangma
+Mont Saint Helens
+Mont Vesuvius
+Mont Etna
+Mont Ararat
+Mont Parnasse
+Mont Olympus
+Mont Taranaki
+Mont Matterhorn
+Mont Rwenzori
+Mont Huayna Picchu
