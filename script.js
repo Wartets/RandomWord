@@ -1,7 +1,8 @@
 let words = [];
 const sources = [
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/custom.txt", name: "AstroAïd", enabled: true },
-    { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/fr", name: "GameYoga", enabled: false },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/astroaid.txt", name: "AstroAïd", enabled: true },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lol.txt", name: "Ligue of Legends", enabled: false },
+    { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/fr", name: "GameYoga", enabled: true },
     { url: "https://raw.githubusercontent.com/Taknok/French-Wordlist/refs/heads/master/francais.txt", name: "Taknok", enabled: false },
     { url: "https://raw.githubusercontent.com/kuel27/wordlist/main/wordlist.txt", name: "Kuel27", enabled: false }
 ];
