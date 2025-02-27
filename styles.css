@@ -2,6 +2,7 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
+	user-select: none;
 }
 
 body {
@@ -76,6 +77,7 @@ button {
 	border: none;
 	padding: 12px 20px;
 	border-radius: 25px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 	cursor: pointer;
 	transition: background 0.2s ease-in-out;
 }
@@ -200,4 +202,25 @@ input[type="checkbox"] {
 ::-webkit-scrollbar-thumb:hover {
     background: rgba(120, 70, 156, 0.9);
 	transition: background 0.2s ease-in-out;
+}
+
+#total-terms {
+	margin-right: 10px;
+	font-size: 15px;
+	font-weight: 600;
+    color: #555;
+    background-color: #f0f0f0;
+    padding: 8px 15px;
+	border: none;
+	padding: 12px 20px;
+	border-radius: 25px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: fit-content;
+}
+
+#total-terms {
+    display: inline-block;
+    font-weight: 600;
+    background-color: #f8f8f8;
 }

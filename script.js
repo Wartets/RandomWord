@@ -1,25 +1,25 @@
 let words = [];
 const sources = [
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/astroaid.txt", name: "AstroAïd 2025", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/wiwiwi.txt", name: "Wiwiwi", enabled: false },
-    { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/fr", name: "GameYoga", enabled: true },
-    { url: "https://raw.githubusercontent.com/Taknok/French-Wordlist/refs/heads/master/francais.txt", name: "Taknok", enabled: true },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/lol.txt", name: "Ligue of Legends", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/forest.txt", name: " Forêt enchantée", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/mystic.txt", name: "Mystique & SFi", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/darkdarkVOLAIRE.txt", name: "darkdark VOLAIRE", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/insultes.txt", name: "Insultes", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/nosense.txt", name: "Aucun Sens", enabled: false },
-    { url: "https://raw.githubusercontent.com/kuel27/wordlist/main/wordlist.txt", name: "Kuel27 (en)", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/wakfu.txt", name: "Wakfu", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/chimie.txt", name: "Chimie", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/physique.txt", name: "Physique", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/biologie.txt", name: "Biologie", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/maths.txt", name: "Mathématiques", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/informatique.txt", name: "Informatique", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/geo.txt", name: "Géographie", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/moyenage.txt", name: "Moyen-Âge", enabled: false },
-    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/lovsex.txt", name: "Love & Sex", enabled: false },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/astroaid.txt", name: "AstroAïd 2025", enabled: false, index: 0 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/wiwiwi.txt", name: "Wiwiwi", enabled: false, index: 1 },
+    { url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/fr", name: "GameYoga", enabled: true, index: 2 },
+    { url: "https://raw.githubusercontent.com/Taknok/French-Wordlist/refs/heads/master/francais.txt", name: "Taknok", enabled: true, index: 3 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/lol.txt", name: "Ligue of Legends", enabled: false, index: 4 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/forest.txt", name: "Forêt enchantée", enabled: false, index: 5 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/mystic.txt", name: "Mystique & SFi", enabled: false, index: 6 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/darkdarkVOLAIRE.txt", name: "darkdark VOLAIRE", enabled: false, index: 7 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/insultes.txt", name: "Insultes", enabled: false, index: 8 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/nosense.txt", name: "Aucun Sens", enabled: false, index: 9 },
+    { url: "https://raw.githubusercontent.com/kuel27/wordlist/main/wordlist.txt", name: "Kuel27 (en)", enabled: false, index: 10 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/wakfu.txt", name: "Wakfu", enabled: false, index: 11 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/chimie.txt", name: "Chimie", enabled: false, index: 12 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/physique.txt", name: "Physique", enabled: false, index: 13 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/biologie.txt", name: "Biologie", enabled: false, index: 14 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/maths.txt", name: "Mathématiques", enabled: false, index: 15 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/informatique.txt", name: "Informatique", enabled: false, index: 16 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/geo.txt", name: "Géographie", enabled: false, index: 17 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/moyenage.txt", name: "Moyen-Âge", enabled: false, index: 18 },
+    { url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/lovsex.txt", name: "Love & Sex", enabled: false, index: 19 },
 ];
 
 function fetchWords(url) {
@@ -38,10 +38,15 @@ function updateWords() {
     Promise.all(activeSources.map(source => fetchWords(source.url)))
         .then(allWords => {
             words = allWords.flat();
+            activeSources.forEach((source, index) => {
+                source.words = allWords[index];
+            });
             regenerateWords();
+            updateTotalTerms();
         })
         .catch(error => console.error('Catch Error', error));
 }
+
 
 function regenerateWords() {
     const minTotalLength = parseInt(document.getElementById('minLength').value, 10)
@@ -97,7 +102,9 @@ function createSourceTable() {
     const container = document.getElementById('source-container');
     container.innerHTML = '';
 
-    sources.forEach((source, index) => {
+    const sortedSources = sources.slice().sort((a, b) => a.name.localeCompare(b.name));
+
+    sortedSources.forEach((source, index) => {
         const card = document.createElement('div');
         card.classList.add('source-card');
         if (!source.enabled) card.classList.add('disabled');
@@ -107,9 +114,11 @@ function createSourceTable() {
             <p id="lines-${index}">Loading...</p>
         `;
 
+        const originalSource = sources.find(s => s.index === source.index);
+
         card.addEventListener('click', () => {
-            toggleSource(index);
-            card.classList.toggle('disabled', !sources[index].enabled);
+            toggleSource(originalSource.index);
+            card.classList.toggle('disabled', !originalSource.enabled);
         });
 
         container.appendChild(card);
@@ -118,7 +127,25 @@ function createSourceTable() {
             document.getElementById(`lines-${index}`).textContent = `${words.length} terms`;
         });
     });
+
+    updateTotalTerms();
 }
+
+function updateTotalTerms() {
+    const totalTerms = sources.filter(source => source.enabled)
+                               .reduce((sum, source) => sum + (source.words ? source.words.length : 0), 0);
+    
+    const totalElement = document.getElementById('total-terms');
+    if (!totalElement) {
+        const totalContainer = document.createElement('div');
+        totalContainer.id = 'total-terms';
+        totalContainer.textContent = `Total terms selected: ${totalTerms}`;
+        document.body.appendChild(totalContainer);
+    } else {
+        totalElement.textContent = `Total terms selected: ${totalTerms}`;
+    }
+}
+
 
 document.addEventListener("keydown", function(event) {
     if (event.key === " " || event.key === "Enter") {
