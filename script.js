@@ -146,13 +146,76 @@ function updateTotalTerms() {
     }
 }
 
-
 document.addEventListener("keydown", function(event) {
     if (event.key === " " || event.key === "Enter") {
         event.preventDefault();
         regenerateWords();
     }
 });
+
+function exportWords() {
+    let wordsList = words.filter(word => word.length <= 32);
+    wordsList = wordsList.sort(() => Math.random() - 0.5);
+    if (wordsList.length < 10) {
+        while (wordsList.length < 10) {
+            wordsList.push(...wordsList);
+        }
+    }
+    let wordsStr = wordsList.join(',');
+    if (wordsStr.length > 20000) {
+        const tooLong = wordsStr.length - 20000;
+        let confirmAdjust = confirm(`The list exceeds 20,000 characters by ${tooLong}. Would you like to reduce it?\n(Reducing the list length allows you to use the list with skribbl.io, random words will be removed)`);
+        if (confirmAdjust) {
+            document.getElementById('overlay').style.display = 'flex';
+            setTimeout(() => {
+                while (wordsStr.length > 20000) {
+                    wordsList.splice(Math.floor(Math.random() * wordsList.length), 1);
+                    wordsStr = wordsList.join(',');
+                }
+                navigator.clipboard.writeText(wordsStr)
+                    .then(() => {
+                        alert('The words have been copied to the clipboard!');
+                    })
+                    .catch(err => {
+                        console.error('Error while copying', err);
+                    });
+                const blob = new Blob([wordsStr], { type: 'text/plain' });
+                const link = document.createElement('a');
+                link.href = URL.createObjectURL(blob);
+                link.download = 'words.txt';
+                link.click();
+                document.getElementById('overlay').style.display = 'none';
+            }, 1000);
+        } else {
+            navigator.clipboard.writeText(wordsStr)
+                .then(() => {
+                    alert('The words have been copied to the clipboard!');
+                })
+                .catch(err => {
+                    console.error('Error while copying', err);
+                });
+            const blob = new Blob([wordsStr], { type: 'text/plain' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'words.txt';
+            link.click();
+        }
+    } else {
+        navigator.clipboard.writeText(wordsStr)
+            .then(() => {
+                alert('The words have been copied to the clipboard!');
+            })
+            .catch(err => {
+                console.error('Error while copying', err);
+            });
+        const blob = new Blob([wordsStr], { type: 'text/plain' });
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = 'words.txt';
+        link.click();
+    }
+}
+
 
 document.addEventListener("DOMContentLoaded", function () {
     createSourceTable();

@@ -21,12 +21,20 @@
 				<input type="number" id="minLength" value="1" min="1">
 			</div>
 			<div id="words-container">Wait...</div>
-			<div id="total-terms" class="total-terms">Total terms selected: 0</div>
-			<button onclick="regenerateWords()">Regen</button>
+			<div id="control-panel">
+				<div id="total-terms" class="total-terms">Total terms selected: 0</div>
+				<div id="buttons-panel">
+					<button id="regen-btn" onclick="regenerateWords()">Générer</button>
+					<button id="export-btn" onclick="exportWords()">Exporter</button>
+				</div>
+			</div>
+			<div id="loading-icon" style="display: none;"></div>
 		</div>
 		<div id="source-container"></div>
 	</div>
-
+	<div id="overlay" style="display: none;">
+		<div class="loading-icon"></div>
+	</div>
     <footer>
         <p>&copy; 2025. All rights reserved. Designed by 
             <a href="https://wartets.github.io/Wartets/" target="_blank">&#x2197;Wartets</a>.
