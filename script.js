@@ -26,9 +26,10 @@ const sources = [
 	{ url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/nl", name: "Skribbl GameYoga (nl)", enabled: false, index: 23 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/philo.txt", name: "Philosophie (fr)", enabled: false, index: 24 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/dino.txt", name: "Archéopaléo (fr)", enabled: false, index: 25 },
-	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/perso.txt", name: "Personnalité", enabled: false, index: 26 },
+	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/perso.txt", name: "Personnalités", enabled: false, index: 26 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/meteo.txt", name: "Météorologie (fr)", enabled: false, index: 27 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/color.txt", name: "Couleurs (fr)", enabled: false, index: 28 },
+	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/art.txt", name: "Art (fr)", enabled: false, index: 29 },
 ];
 
 function fetchWords(url) {
