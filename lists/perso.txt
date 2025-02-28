@@ -1,0 +1,739 @@
+Jules César  
+Alexandre le Grand  
+Napoléon Bonaparte  
+Cléopâtre VII  
+Charlemagne  
+Gengis Khan  
+Attila le Hun  
+Hannibal Barca  
+Socrate  
+Platon  
+Aristote  
+Confucius  
+Léonard de Vinci  
+Michel-Ange  
+Raphaël  
+Galilée  
+Isaac Newton  
+Albert Einstein  
+Nikola Tesla  
+Marie Curie  
+Louis Pasteur  
+Charles Darwin  
+Gregor Mendel  
+Sigmund Freud  
+René Descartes  
+Blaise Pascal  
+Emmanuel Kant  
+Voltaire  
+Jean-Jacques Rousseau  
+Karl Marx  
+Friedrich Nietzsche  
+Adam Smith  
+John Locke  
+Thomas Hobbes  
+Benjamin Franklin  
+George Washington  
+Thomas Jefferson  
+Abraham Lincoln  
+Theodore Roosevelt  
+Franklin D. Roosevelt  
+Winston Churchill  
+Joseph Staline  
+Vladimir Lénine  
+Mao Zedong  
+Sun Tzu  
+Omar Khayyam  
+Avicenne  
+Ibn Khaldoun  
+Tamerlan  
+Saladin  
+Mustafa Kemal Atatürk  
+Che Guevara  
+Simón Bolívar  
+Nelson Mandela  
+Mahatma Gandhi  
+Martin Luther King Jr.  
+Malcolm X  
+Rosa Parks  
+John F. Kennedy  
+Theodore Roosevelt  
+Dwight D. Eisenhower  
+Margaret Thatcher  
+Angela Merkel  
+Barack Obama  
+Donald Trump  
+Vlad III l'Empaleur  
+Ivan le Terrible  
+Pierre le Grand  
+Catherine II de Russie  
+Henri VIII d'Angleterre  
+Élisabeth Ire d'Angleterre  
+Victoria du Royaume-Uni  
+Louis XIV  
+Louis XVI  
+Robespierre  
+Georges Clemenceau  
+Charles de Gaulle  
+Jean Moulin  
+Hugues Capet  
+Philippe Auguste  
+François Ier  
+Henri IV  
+Jean-Baptiste Colbert  
+Nicolas Machiavel  
+Gutenberg  
+Christophe Colomb  
+Ferdinand Magellan  
+James Cook  
+Marco Polo  
+Amerigo Vespucci  
+Vasco de Gama  
+Hernán Cortés  
+Francisco Pizarro  
+David Livingstone  
+Roald Amundsen  
+Neil Armstrong  
+Youri Gagarine  
+Alan Turing  
+Claude Shannon  
+John von Neumann  
+Benoît Mandelbrot  
+Ada Lovelace  
+Grace Hopper  
+Steve Jobs  
+Bill Gates  
+Elon Musk  
+Jeff Bezos  
+Mark Zuckerberg  
+Larry Page  
+Sergey Brin  
+Karl Benz  
+Henry Ford  
+Ferdinand Porsche  
+Enzo Ferrari  
+Nikolaus Otto  
+Wilbur Wright  
+Orville Wright  
+Amelia Earhart  
+Howard Hughes  
+Marie-Antoinette  
+Joséphine de Beauharnais  
+Louise Michel  
+Olympe de Gouges  
+George Sand  
+Simone de Beauvoir  
+Margaret Mead  
+Hypatie d'Alexandrie  
+Clara Schumann  
+Édith Piaf  
+Freddie Mercury  
+John Lennon  
+Paul McCartney  
+Bob Marley  
+Jimi Hendrix  
+David Bowie  
+Elvis Presley  
+Michael Jackson  
+Prince  
+Madonna  
+Tina Turner  
+Aretha Franklin  
+Frank Sinatra  
+Louis Armstrong  
+Miles Davis  
+Chopin  
+Mozart  
+Beethoven  
+Bach  
+Vivaldi  
+Tchaïkovski  
+Dostoïevski  
+Tolstoï  
+Victor Hugo  
+Balzac  
+Flaubert  
+Zola  
+Proust  
+Baudelaire  
+Verlaine  
+Rimbaud  
+Shakespeare  
+Hemingway  
+Orwell  
+H.G. Wells  
+Jules Verne  
+Alexandre Dumas  
+Homère  
+Sophocle  
+Euripide  
+Dante Alighieri  
+Machiavel  
+Cervantès  
+Goethe  
+Kafka  
+Edgar Allan Poe  
+Mark Twain  
+H.P. Lovecraft  
+Stephen King  
+J.R.R. Tolkien  
+George R.R. Martin  
+J.K. Rowling  
+Agatha Christie  
+Arthur Conan Doyle  
+Alexandre Soljenitsyne  
+Oppenheimer  
+Enrico Fermi  
+Erwin Schrödinger  
+Werner Heisenberg  
+Max Planck  
+Richard Feynman  
+Stephen Hawking  
+Marie-Anne Lavoisier  
+Lavoisier  
+Évariste Galois  
+Henri Poincaré  
+Pierre-Simon Laplace  
+Joseph Fourier  
+Émile Durkheim  
+Max Weber  
+Pierre Bourdieu  
+Claude Lévi-Strauss  
+Sigmund Freud  
+Carl Jung  
+Alfred Adler  
+Jean Piaget  
+Noam Chomsky  
+Jacques Derrida  
+Michel Foucault  
+Roland Barthes  
+Jean-Paul Sartre  
+Simone de Beauvoir  
+Albert Camus  
+André Breton  
+Salvador Dalí  
+Pablo Picasso  
+Vincent Van Gogh  
+Claude Monet  
+Édouard Manet  
+Gustave Courbet  
+Paul Cézanne  
+Henri Matisse  
+René Magritte  
+Frida Kahlo  
+Diego Rivera  
+Jackson Pollock  
+Andy Warhol  
+Keith Haring  
+Banksy  
+Nicolas Copernic  
+Tycho Brahe  
+Johannes Kepler  
+Edwin Hubble  
+Carl Sagan  
+Neil deGrasse Tyson  
+Brian Greene  
+Richard Dawkins  
+Thomas Edison  
+Alexander Graham Bell  
+Guglielmo Marconi  
+Samuel Morse  
+Antoine de Saint-Exupéry  
+Le Corbusier  
+Frank Lloyd Wright  
+Léon Blum  
+François Mitterrand  
+Jacques Chirac  
+Nicolas Sarkozy  
+Emmanuel Macron  
+François Hollande  
+Valéry Giscard d'Estaing  
+Vercingétorix  
+Chateaubriand  
+Sainte Thérèse d'Avila  
+Jean XXIII  
+Jean-Paul II  
+Mère Teresa  
+Siddhartha Gautama  
+Confucius  
+Lao Tseu  
+Zoroastre  
+Mahomet  
+Moïse  
+Jean Calvin  
+Martin Luther  
+Érasme  
+Saint Augustin  
+Saint Thomas d'Aquin  
+Avicenne  
+Averroès  
+Thalès de Milet  
+Anaximandre  
+Démocrite  
+Empédocle  
+Héraclite  
+Zénon d'Élée  
+Pyrrhon  
+Plotin  
+Epicure  
+Lucrèce  
+Boèce  
+Kierkegaard  
+Léon Tolstoï  
+Anton Tchekhov  
+Ibn Battuta  
+Hernán Cortés  
+Francisco Pizarro  
+José de San Martín  
+Dom Pérignon  
+Antoine-Augustin Parmentier  
+Cristobal Balenciaga  
+Christian Dior  
+Coco Chanel  
+Yves Saint Laurent  
+Jean-Luc Godard  
+François Truffaut  
+Charlie Chaplin  
+Alfred Hitchcock  
+Stanley Kubrick  
+Quentin Tarantino  
+Steven Spielberg  
+Martin Scorsese  
+Christopher Nolan  
+Akira Kurosawa  
+Hayao Miyazaki  
+George Lucas  
+Ridley Scott  
+Francis Ford Coppola  
+Marlon Brando  
+Robert De Niro  
+Al Pacino  
+Leonardo DiCaprio  
+Meryl Streep  
+Cate Blanchett  
+Anthony Hopkins  
+Morgan Freeman  
+Denzel Washington  
+Robin Williams  
+Tom Hanks  
+Brad Pitt  
+Angelina Jolie  
+Scarlett Johansson  
+Marilyn Monroe  
+Bruce Lee  
+Jackie Chan  
+Jet Li  
+Arnold Schwarzenegger  
+Sylvester Stallone  
+Clint Eastwood  
+Louis Armstrong  
+Ella Fitzgerald  
+Bessie Smith  
+Django Reinhardt  
+Sidney Bechet  
+Thelonious Monk  
+Duke Ellington  
+Charlie Parker  
+John Coltrane  
+Miles Davis  
+Billie Holiday  
+Ray Charles  
+James Brown  
+Aretha Franklin  
+Otis Redding  
+Sam Cooke  
+Johnny Cash  
+Patsy Cline  
+Willie Nelson  
+Dolly Parton  
+B.B. King  
+Muddy Waters  
+Howlin' Wolf  
+Robert Johnson  
+Chuck Berry  
+Little Richard  
+Bo Diddley  
+Buddy Holly  
+Elvis Presley  
+Jerry Lee Lewis  
+Roy Orbison  
+Bob Dylan  
+Joan Baez  
+Janis Joplin  
+Joni Mitchell  
+Carly Simon  
+Carole King  
+David Bowie  
+Lou Reed  
+Iggy Pop  
+Patti Smith  
+Debbie Harry  
+Freddie Mercury  
+Roger Waters  
+David Gilmour  
+Nick Mason  
+Syd Barrett  
+Brian May  
+John Deacon  
+Keith Richards  
+Mick Jagger  
+Charlie Watts  
+Ronnie Wood  
+Paul McCartney  
+George Harrison  
+Ringo Starr  
+John Lennon  
+Jim Morrison  
+Ray Manzarek  
+Robby Krieger  
+John Densmore  
+Jimi Hendrix  
+Noel Redding  
+Mitch Mitchell  
+Eric Clapton  
+Jeff Beck  
+Jimmy Page  
+Robert Plant  
+John Bonham  
+John Paul Jones  
+Roger Daltrey  
+Pete Townshend  
+John Entwistle  
+Keith Moon  
+Kurt Cobain  
+Dave Grohl  
+Krist Novoselic  
+Thom Yorke  
+Jonny Greenwood  
+Colin Greenwood  
+Ed O'Brien  
+Philip Selway  
+Eddie Vedder  
+Chris Cornell  
+Layne Staley  
+Jerry Cantrell  
+Trent Reznor  
+Marilyn Manson  
+James Hetfield  
+Lars Ulrich  
+Kirk Hammett  
+Cliff Burton  
+Dave Mustaine  
+Tom Araya  
+Kerry King  
+Jeff Hanneman  
+Dimebag Darrell  
+Vinnie Paul  
+Corey Taylor  
+Jonathan Davis  
+Fred Durst  
+Chester Bennington  
+Mike Shinoda  
+Serj Tankian  
+Daron Malakian  
+Shavo Odadjian  
+John Dolmayan  
+Till Lindemann  
+Richard Kruspe  
+Paul Landers  
+Christian Lorenz  
+Oliver Riedel  
+Christoph Schneider  
+Brian Eno  
+Phil Spector  
+Quincy Jones  
+Rick Rubin  
+Dr. Dre  
+Timbaland  
+Kanye West  
+Pharrell Williams  
+Jay-Z  
+Nas  
+The Notorious B.I.G.  
+Tupac Shakur  
+Ice Cube  
+Eazy-E  
+Snoop Dogg  
+Lil Wayne  
+Eminem  
+50 Cent  
+Kendrick Lamar  
+J. Cole  
+Travis Scott  
+Post Malone  
+Billie Eilish  
+Dua Lipa  
+Taylor Swift  
+Adele  
+Lana Del Rey  
+Beyoncé  
+Rihanna  
+Britney Spears  
+Madonna  
+Cher  
+Céline Dion  
+Barbra Streisand  
+Mariah Carey  
+Whitney Houston  
+Elton John  
+Rod Stewart  
+Bruce Springsteen  
+Billy Joel  
+Phil Collins  
+Peter Gabriel  
+Sting  
+Mark Knopfler  
+Chris Martin  
+Bono  
+The Edge  
+Adam Clayton  
+Larry Mullen Jr.  
+Thom Yorke  
+Bjork  
+Moby  
+Fatboy Slim  
+The Chemical Brothers  
+Daft Punk  
+Justice  
+Skrillex  
+Deadmau5  
+Avicii  
+Calvin Harris  
+David Guetta  
+Paul Oakenfold  
+Tiesto  
+Armin van Buuren  
+Carl Cox  
+Richie Hawtin  
+Aphex Twin  
+Squarepusher  
+Four Tet  
+Flying Lotus  
+Steve Reich  
+Philip Glass  
+John Cage  
+Karlheinz Stockhausen  
+Igor Stravinsky  
+Sergei Rachmaninov  
+Claude Debussy  
+Maurice Ravel  
+Johann Sebastian Bach  
+Wolfgang Amadeus Mozart  
+Ludwig van Beethoven  
+Johannes Brahms  
+Franz Schubert  
+Frédéric Chopin  
+Richard Wagner  
+Gustav Mahler  
+Dmitri Chostakovitch  
+Igor Stravinsky  
+Béla Bartók  
+John Williams  
+Hans Zimmer  
+Ennio Morricone  
+Danny Elfman  
+Howard Shore  
+James Horner  
+Alexandre Desplat  
+Philip Glass  
+Max Richter  
+Clint Mansell  
+Joe Hisaishi  
+Ryuichi Sakamoto  
+Nino Rota  
+Michel Legrand  
+Vangelis  
+Tangerine Dream  
+Jean-Michel Jarre  
+Mike Oldfield  
+Brian Eno  
+Laurie Anderson  
+Kraftwerk  
+Depeche Mode  
+New Order  
+The Cure  
+The Smiths  
+Morrissey  
+Johnny Marr  
+Joy Division  
+Ian Curtis  
+Bernard Sumner  
+Peter Hook  
+Stephen Morris  
+The Clash  
+Joe Strummer  
+Mick Jones  
+Paul Simonon  
+Topper Headon  
+Sex Pistols  
+Sid Vicious  
+Johnny Rotten  
+Glen Matlock  
+Steve Jones  
+Buzzcocks  
+The Damned  
+The Ramones  
+Joey Ramone  
+Johnny Ramone  
+Dee Dee Ramone  
+Tommy Ramone  
+Talking Heads  
+David Byrne  
+Tina Weymouth  
+Chris Frantz  
+Jerry Harrison  
+The B-52’s  
+Blondie  
+Siouxsie Sioux  
+The Jesus and Mary Chain  
+My Bloody Valentine  
+Slowdive  
+Ride  
+The Stone Roses  
+Primal Scream  
+Oasis  
+Noel Gallagher  
+Liam Gallagher  
+Blur  
+Damon Albarn  
+Gorillaz  
+Pulp  
+Jarvis Cocker  
+Suede  
+The Verve  
+Richard Ashcroft  
+Radiohead  
+Coldplay  
+Muse  
+Arctic Monkeys  
+The Strokes  
+The White Stripes  
+Jack White  
+Meg White  
+The Black Keys  
+Dan Auerbach  
+Patrick Carney  
+Tame Impala  
+Kevin Parker  
+The Flaming Lips  
+Wilco  
+Sufjan Stevens  
+Bon Iver  
+Fleet Foxes  
+Grizzly Bear  
+Vampire Weekend  
+Arcade Fire  
+Win Butler  
+Régine Chassagne  
+LCD Soundsystem  
+James Murphy  
+The National  
+Interpol  
+The Killers  
+Brandon Flowers  
+Kings of Leon  
+Modest Mouse  
+Death Cab for Cutie  
+The Decemberists  
+The Shins  
+Iron & Wine  
+Band of Horses  
+Mumford & Sons  
+The Lumineers  
+Of Monsters and Men  
+First Aid Kit  
+Father John Misty  
+Mac DeMarco  
+Rex Orange County  
+Tyler, the Creator  
+Frank Ocean  
+Childish Gambino  
+Anderson .Paak  
+Thundercat  
+Kamasi Washington  
+Flying Lotus  
+J Dilla  
+Madlib  
+MF DOOM  
+Run the Jewels  
+El-P  
+Killer Mike  
+A Tribe Called Quest  
+Q-Tip  
+Phife Dawg  
+De La Soul  
+The Roots  
+Black Thought  
+Questlove  
+Erykah Badu  
+D’Angelo  
+Jill Scott  
+Lauryn Hill  
+Mary J. Blige  
+Alicia Keys  
+John Legend  
+Stevie Wonder  
+Prince  
+James Brown  
+Parliament-Funkadelic  
+George Clinton  
+Bootsy Collins  
+Sly and the Family Stone  
+Curtis Mayfield  
+Isaac Hayes  
+Al Green  
+Marvin Gaye  
+Smokey Robinson  
+The Temptations  
+The Supremes  
+The Jackson 5  
+Michael Jackson  
+Tina Turner  
+The Isley Brothers  
+Earth, Wind & Fire  
+Chic  
+Nile Rodgers  
+Donna Summer  
+Bee Gees  
+ABBA  
+The Carpenters  
+Fleetwood Mac  
+Stevie Nicks  
+Lindsey Buckingham  
+Christine McVie  
+John McVie  
+Mick Fleetwood  
+Tom Petty  
+Neil Young  
+Crosby, Stills & Nash  
+The Eagles  
+Glenn Frey  
+Don Henley  
+Joe Walsh  
+Randy Meisner  
+The Beach Boys  
+Brian Wilson  
+The Byrds  
+Simon & Garfunkel  
+Paul Simon  
+Art Garfunkel  
+Bob Marley  
+Peter Tosh  
+Jimmy Cliff  
+Toots and the Maytals  
+Burning Spear  
+Steel Pulse  
+Black Uhuru  
+Culture  
+Inner Circle  
+Third World  
+Alpha Blondy  
+Tiken Jah Fakoly  
+Groundation  
+Gentleman  
+Sizzla  
+Capleton  
+Buju Banton  
+Shaggy  
+Sean Paul  
+Damian Marley

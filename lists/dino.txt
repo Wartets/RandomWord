@@ -1,0 +1,594 @@
+Tyrannosaurus rex  
+Velociraptor  
+Triceratops  
+Stegosaurus  
+Brachiosaurus  
+Spinosaurus  
+Allosaurus  
+Ankylosaurus  
+Pachycephalosaurus  
+Iguanodon  
+Parasaurolophus  
+Dilophosaurus  
+Carnotaurus  
+Compsognathus  
+Deinonychus  
+Pteranodon  
+Quetzalcoatlus  
+Archaeopteryx  
+Dreadnoughtus  
+Argentinosaurus  
+Giganotosaurus  
+Therizinosaurus  
+Troodon  
+Utahraptor  
+Oviraptor  
+Microraptor  
+Edmontosaurus  
+Euoplocephalus  
+Majungasaurus  
+Mosasaurus  
+Kronosaurus  
+Plesiosaurus  
+Liopleurodon  
+Coelophysis  
+Ornitholestes  
+Carcharodontosaurus  
+Cryolophosaurus  
+Gallimimus  
+Hadrosaurus  
+Lambeosaurus  
+Corythosaurus  
+Sauroposeidon  
+Nothronychus  
+Dracorex  
+Monolophosaurus  
+Stygimoloch  
+Megalosaurus  
+Daspletosaurus  
+Torosaurus  
+Protoceratops  
+Herrerasaurus  
+Eoraptor  
+Ouranosaurus  
+Huayangosaurus  
+Gigantoraptor  
+Sinoceratops  
+Styracosaurus  
+Kentrosaurus  
+Hypsilophodon  
+Rugops  
+Zuniceratops  
+Dacentrurus  
+Rhabdodon  
+Plateosaurus  
+Nodosaurus  
+Apatosaurus  
+Diplodocus  
+Camarasaurus  
+Barosaurus  
+Fukuiraptor  
+Concavenator  
+Gasosaurus  
+Tarbosaurus  
+Segnosaurus  
+Suchomimus  
+Afrovenator  
+Becklespinax  
+Chasmosaurus  
+Lesothosaurus  
+Psittacosaurus  
+Scelidosaurus  
+Struthiomimus  
+Thescelosaurus  
+Xenoceratops  
+Yutyrannus  
+Zhuchengtyrannus  
+Einiosaurus  
+Fukuisaurus  
+Rapetosaurus  
+Jobaria  
+Magnapaulia  
+Achelousaurus  
+Isisaurus  
+Lufengosaurus  
+Mamenchisaurus  
+Amargasaurus  
+Dicraeosaurus  
+Irritator  
+Metriacanthosaurus  
+Rajasaurus  
+Austrosaurus  
+Baryonyx  
+Ceratosaurus  
+Dryptosaurus  
+Falcarius  
+Indosuchus  
+Jaxartosaurus  
+Kritosaurus  
+Lurdusaurus  
+Marshosaurus  
+Nanotyrannus  
+Othnielia  
+Pelecanimimus  
+Qianzhousaurus  
+Riojasaurus  
+Saltasaurus  
+Tarchia  
+Udanoceratops  
+Vulcanodon  
+Weewarrasaurus  
+Xixiasaurus  
+Yandusaurus  
+Zalmoxes  
+Zhuchengceratops  
+Abrictosaurus  
+Antetonitrus  
+Brachylophosaurus  
+Cionodon  
+Dysalotosaurus  
+Elaphrosaurus  
+Fosterovenator  
+Gargoyleosaurus  
+Hagryphus  
+Jubbulpuria  
+Kaatedocus  
+Liaoningosaurus  
+Mochlodon  
+Nambalia  
+Olorotitan  
+Piveteausaurus  
+Qiupalong  
+Rhinorex  
+Sigilmassasaurus  
+Tangvayosaurus  
+Urbacodon  
+Vespersaurus  
+Willinakaqe  
+Xenoposeidon  
+Yimenosaurus  
+Zby  
+Abelisaurus  
+Avimimus  
+Bagaceratops  
+Buitreraptor  
+Coelurus  
+Deltadromeus  
+Eustreptospondylus  
+Ferganocephale  
+Goyocephale  
+Hesperosaurus  
+Jinfengopteryx  
+Khaan  
+Ligabueino  
+Macelognathus  
+Neovenator  
+Orkoraptor  
+Piatnitzkysaurus  
+Qantassaurus  
+Rinchenia  
+Spinostropheus  
+Trinisaura  
+Ugrunaaluk  
+Valdosaurus  
+Wakinosaurus  
+Xuanhanosaurus  
+Yurgovuchia  
+Zephyrosaurus  
+Anzu  
+Dineobellator  
+Hesperornithoides  
+Moros  
+Tianyulong  
+Zuolong  
+Irritator challengeri  
+Thanatotheristes  
+Pachyrhinosaurus  
+Einiosaurus procurvicornis  
+Albertosaurus  
+Daspletosaurus torosus  
+Tyrannotitan  
+Pyroraptor  
+Sinornithosaurus  
+Unenlagia  
+Rahonavis  
+Deinocheirus  
+Harpyimimus  
+Beipiaosaurus  
+Sinovenator  
+Mei long  
+Alvarezsaurus  
+Shuvuuia  
+Patagonykus  
+Gallodactylus  
+Nyctosaurus  
+Cearadactylus  
+Dsungaripterus  
+Geosternbergia  
+Istiodactylus  
+Ludodactylus  
+Ornithocheirus  
+Pterodaustro  
+Tapejara  
+Thalassodromeus  
+Tupandactylus  
+Tupuxuara  
+Eudimorphodon  
+Jeholopterus  
+Nemicolopterus  
+Preondactylus  
+Rhamphorhynchus  
+Sordes  
+Dorygnathus  
+Campanian  
+Maastrichtien  
+Turonien  
+Cénomanien  
+Albien  
+Aptien  
+Barrémien  
+Hauterivien  
+Valanginien  
+Berriasien  
+Tithonien  
+Kimméridgien  
+Oxfordien  
+Callovien  
+Bathonien  
+Bajocien  
+Aalénien  
+Toarcien  
+Pliensbachien  
+Sinémurien  
+Hettangien  
+Trias supérieur  
+Trias moyen  
+Trias inférieur  
+Norien  
+Carnien  
+Ladinien  
+Anisien  
+Olenekien  
+Induen  
+Jurassique supérieur  
+Jurassique moyen  
+Jurassique inférieur  
+Crétacé supérieur  
+Crétacé inférieur  
+Paléogène  
+Éocène  
+Oligocène  
+Pléistocène  
+Mésozoïque  
+Paléozoïque  
+Protérozoïque  
+Hadéen  
+Édiacarien  
+Carbonifère  
+Permien  
+Silurien  
+Ordovicien  
+Cambrien  
+Triasique  
+Crétacé  
+Jurassique  
+Hell Creek  
+Morrison  
+Solnhofen  
+Santana  
+Liaoning  
+Ischigualasto  
+Tendaguru  
+Karoo  
+Green River  
+Yixian  
+Tiaojishan  
+Flaming Cliffs  
+Two Medicine  
+Judith River  
+Nemegt  
+Cedar Mountain  
+Horseshoe Canyon  
+Laramie  
+Niobrara  
+Oldman  
+Lance  
+Cloverly  
+Wessex  
+Lianmuqin  
+Elrhaz  
+Cerro Barcino  
+Bajo Barreal  
+Djadokhta  
+Iren Dabasu  
+Shishugou  
+Shaximiao  
+Dashanpu  
+Haman  
+Sebes  
+Gosau  
+Phu Kradung  
+Huajiying  
+Chenini  
+Kem Kem  
+Kirkwood  
+Tuskes  
+Tlayúa  
+Bahia Inglesa  
+Aguja  
+Romualdo  
+Fiambalá  
+Bayn Dzak  
+Bissekty  
+Cerro Fortaleza  
+Dinosaur Park  
+Kaiparowits  
+El Molino  
+Prince Creek  
+Bajo de la Carpa  
+Wahweap  
+Dongyang  
+Burro Canyon  
+Kogosukruk  
+Liscomb  
+Allen  
+Cerro del Pueblo  
+Guichon  
+Iquique  
+El Puente  
+Chadron  
+Cantwell  
+La Amarga  
+São José do Rio Preto  
+Madagaskar  
+Sousa  
+São Carlos  
+Añisclo  
+Guaran  
+Araripe  
+Cañadón Asfalto  
+La Paloma  
+Cerro Bandera  
+Paléontologie  
+Taphonomie  
+Fossilisation  
+Pseudofossile  
+Ichnofossile  
+Période stratigraphique  
+Biostratigraphie  
+Lithostratigraphie  
+Chronostratigraphie  
+Datation radiométrique  
+Isotope parent  
+Isotope fils  
+Dérive des continents  
+Extinction massive  
+Impact météoritique  
+Hypothèse Alvarez  
+Piège géologique  
+Trilobite fossile  
+Concrétion osseuse  
+Sédimentation  
+Matrice sédimentaire  
+Gisement fossilifère  
+Érosion différentielle  
+Formation sédimentaire  
+Écologie fossile  
+Reconstitution paléobiologique  
+Taxonomie des fossiles  
+Morphologie fonctionnelle  
+Dinosaures théropodes  
+Dinosaures ornithischiens  
+Plantes fossiles  
+Inclusions dans l'ambre  
+Microfossiles  
+Foraminifères fossiles  
+Paléobotanique  
+Ostracodes fossiles  
+Diatomées fossiles  
+Silex taillé  
+Faune de Burgess  
+Faune d’Ediacara  
+Site fossilifère de Solnhofen  
+Bassin de Morrison  
+Fossile de Liaoning  
+Plume fossile  
+Oeuf fossilisé  
+Ichnologie  
+Empreinte tridactyle  
+Grotte paléolithique  
+Art pariétal  
+Ossements carbonisés  
+Analyse paléoparasitologique  
+Os subfossile  
+Géochimie isotopique  
+Biomarqueurs fossiles  
+Dentine fossilisée  
+Phosphatation osseuse  
+Structure de Havers  
+Patine osseuse  
+Bioturbation  
+Piste fossilisée  
+Terrier fossilisé  
+Crottes fossilisées  
+Paléogénétique  
+ADN ancien  
+Extraction d'ADN fossile  
+Gènes fossiles  
+Protéomique paléontologique  
+Collagène fossile  
+Spectrométrie de masse fossile  
+Reconstruction 3D de fossiles  
+Morphométrie géométrique  
+Endocaste crânien  
+Paléoécosystème  
+Écosystème du Crétacé  
+Dôme osseux fossilisé  
+Gros gibier préhistorique  
+Carnivore du Mésozoïque  
+Herbivore du Jurassique  
+Extinction du Permien  
+Crâne dolichocéphale  
+Otolithes fossiles  
+Carapace fossilisée  
+Nid de dinosaure  
+Fossilisation in situ  
+Émail dentaire fossile  
+Humerus fossilisé  
+Vertèbres caudales fossiles  
+Plésiosaure juvénile  
+Mammifère du Trias  
+Orbite orbitale fossile  
+Lac de Lagerstätte  
+Biominéralisation  
+Séquence de dépôt  
+Dépôt lacustre fossile  
+Strates carbonatées  
+Reptiles du Paléozoïque  
+Paléocourants  
+Dents de Mosasaure  
+Bélemnites fossiles  
+Ammonite pyritisée  
+Traces de prédateur fossile  
+Fossilisation en milieu anoxique  
+Érosion paléontologique  
+Ombre fossile  
+Mue fossilisée  
+Dentition serrulée  
+Dermatocrâne fossilisé  
+Paléosol  
+Cycle eustatique  
+Caractères apomorphiques fossiles  
+Zone biostratigraphique  
+Migrations paléobiologiques  
+Mycète fossile  
+Subduction et préservation fossile  
+Métasédiment fossilifère  
+Trilobites pygidiaux  
+Paléohorizon  
+Accumulation osseuse  
+Plaques dermiques fossiles  
+Phosphorite fossile  
+Tégument fossile  
+Faune benthique fossile  
+Système lacustre paléontologique  
+Orbite creuse fossilisée  
+Gneiss archéen fossilifère  
+Barrière récifale mésozoïque  
+Squelette axial fossilisé  
+Bivalves fossiles  
+Chondrichtyens mésozoïques  
+Poisson du Dévonien  
+Forêt fossile  
+Climat paléogénique  
+Écosystème du Crétacé supérieur  
+Mer de Téthys  
+Espèce index fossile  
+Reptile aquatique fossilisé  
+Fossile de convergence évolutive  
+Radiation évolutive mésozoïque  
+Cycle de sédimentation  
+Grès fossilifère  
+Plage fossilisée  
+Formation de stromatolites  
+Reptile marin jurassique  
+Ophiolite paléontologique  
+Niveau d'érosion paléontologique  
+Crustacé du Crétacé  
+Carcasse en connexion anatomique  
+Moulage naturel fossile  
+Chambre d’ammonite fossilisée  
+Ossements enchevêtrés  
+Oursin fossile  
+Gastéropode du Jurassique  
+Reconstitution paléoclimatique  
+Minéralisation fossile  
+Stégocéphale fossile  
+Pédoncule de brachiopode fossile  
+Tibia fossilisé  
+Capitulum de ptérosaure  
+Calcite de fossile  
+Lagon mésozoïque fossilisé  
+Synapside du Permien  
+Theropode à plumes fossile  
+Oviposition fossile  
+Œufs de titanosaure  
+Fémur de cératopsien  
+Vertèbres cervicales de sauropode  
+Narines dorsales de spinosaure  
+Griffes de raptor fossile  
+Empreinte de queue de dinosaure  
+Métacarpiens fossilisés  
+Restes de carapace de tortue  
+Fossilisation rapide  
+Strates du Maastrichtien  
+Strate fossilifère du Bajocien  
+Traces de digestion fossile  
+Carrière de fossiles  
+Piège de goudron préhistorique  
+Silex éclaté préhistorique  
+Sténochampsien fossile  
+Ossement spiralé  
+Roches ignées fossilifères  
+Brèche osseuse fossilifère  
+Glace fossilisée  
+Roches bioclastiques  
+Conglomérat paléontologique  
+Horizon fossilifère  
+Terrasses sédimentaires fossilisées  
+Assemblage fossile  
+Reconstruction anatomique  
+Modélisation phylogénétique fossile  
+Fouille paléontologique  
+Chantier de fouilles  
+Datation paléomagnétique  
+Fossiles de la limite K-T  
+Reptile du Gondwana  
+Archosaure du Trias  
+Nidification fossilisée  
+Herbivore bipède fossilisé  
+Prédateur du Crétacé supérieur  
+Coussinets fossiles  
+Pigmentation fossilisée  
+Crâne complet fossilisé  
+Os pneumatisés fossilisés  
+Matrice ferrugineuse  
+Dérive des ossements  
+Aire de repos fossilisée  
+Squelette composite  
+Bois pétrifié  
+Pliocène fossilisé  
+Mammifère mésozoïque  
+Moule interne d’ammonite  
+Surface d’abrasion fossile  
+Empreintes de nage fossilisées  
+Saurischiens  
+Ornithischiens  
+Dérive paléontologique  
+Réseau trophique fossile  
+Métatarses fossilisés  
+Glissement fossilifère  
+Géode contenant un fossile  
+Théropode à crête  
+Placodermes fossiles  
+Ossification hétérotopique  
+Débris d’armure dermique  
+Coquille fossilisée  
+Sinus fossile  
+Vestiges oculaires fossilisés  
+Exuvie de trilobite  
+Fossilisation incomplète  
+Fossile lacunaire  
+Dépôt carbonaté mésozoïque  
+Migration des fossiles  
+Marque de prédateur fossile  
+Lacustre crétacé  
+Terre de Diatomée fossile  
+Gisement exceptionnel  
+Glyptodon fossile  
+Carbone 14 fossile  
+Altération post-mortem  
+Minéralisation des tissus mous  
+Préservation exceptionelle  
+Empreintes cloisonnées fossiles  
+Séquence biogénique fossile
