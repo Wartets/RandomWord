@@ -1,0 +1,565 @@
+Blanc neige
+Blanc cassé
+Blanc pur
+Blanc ivoire
+Blanc crème
+Blanc d'os
+Beige
+Beige clair
+Beige sable
+Beige rosé
+Jaune pâle
+Jaune beurre
+Jaune citron
+Jaune doré
+Jaune fluo
+Jaune canari
+Jaune paille
+Jaune moutarde
+Jaune soufre
+Jaune pamplemousse
+Jaune d'or
+Orange clair
+Orange vif
+Orange citrouille
+Orange sanguine
+Orange brûlée
+Orange caramel
+Rouge clair
+Rouge écarlate
+Rouge cerise
+Rouge carmin
+Rouge grenat
+Rouge bordeaux
+Rouge framboise
+Rouge pivoine
+Rouge cardinal
+Rouge rubis
+Rouge vermillon
+Rouge tomate
+Rouge coquelicot
+Rouge brique
+Rose pâle
+Rose fuchsia
+Rose bonbon
+Rose poudré
+Rose dragée
+Rose saumon
+Rose vif
+Rose vif clair
+Mauve
+Mauve lavande
+Violet clair
+Violet intense
+Violet prune
+Violet aubergine
+Violet lilas
+Violet orchidée
+Bleu clair
+Bleu ciel
+Bleu pastel
+Bleu azur
+Bleu lagon
+Bleu turquoise
+Bleu saphir
+Bleu indigo
+Bleu royal
+Bleu marine
+Bleu nuit
+Bleu cobalt
+Bleu électrique
+Bleu électrique foncé
+Bleu denim
+Bleu pétrole
+Bleu ardoise
+Bleu pervenche
+Bleu acier
+Bleu de Prusse
+Vert clair
+Vert pâle
+Vert émeraude
+Vert menthe
+Vert pomme
+Vert sauge
+Vert olive
+Vert forêt
+Vert mousse
+Vert tilleul
+Vert amande
+Vert sapin
+Vert kaki
+Vert pomme de terre
+Vert d'eau
+Vert anis
+Vert cèdre
+Vert mousse clair
+Vert fluo
+Vert néon
+Vert lime
+Vert chartreuse
+Vert pistache
+Vert algue
+Vert basilic
+Vert militaire
+Vert lichen
+Vert cactus
+Gris clair
+Gris perle
+Gris argent
+Gris souris
+Gris cendré
+Gris plomb
+Gris béton
+Gris anthracite
+Gris ardoise
+Gris foncé
+Gris acier
+Gris taupe
+Gris poussière
+Gris tourterelle
+Noir
+Noir charbon
+Noir intense
+Noir ébène
+Noir corbeau
+Noir mat
+Noir brillant
+Noir profond
+Noir perle
+Noir velours
+Noir abysse
+Brun clair
+Brun foncé
+Brun chocolat
+Brun caramel
+Brun noisette
+Brun acajou
+Brun bois
+Brun rouille
+Brun cuivré
+Brun terre de sienne
+Brun auburn
+Brun miel
+Brun bistre
+Beige rosé
+Beige gris
+Beige sable foncé
+Jaune ambré
+Jaune or
+Jaune soleil
+Jaune fluo
+Jaune herbe
+Jaune citron vert
+Orange rouille
+Orange cuivre
+Orange terre cuite
+Rouge brique clair
+Rouge cramoisi
+Rouge sanguine
+Rouge grenadine
+Rouge rubis clair
+Rose quartz
+Rose poudré clair
+Rose pêche
+Rose pêche clair
+Rose caramélisé
+Mauve orchidée
+Mauve lilas clair
+Violet clair pastel
+Violet prune clair
+Bleu turquoise clair
+Bleu ultramarine
+Bleu ciel foncé
+Bleu orage
+Bleu topaze
+Bleu mirage
+Vert forêt foncé
+Vert olive clair
+Vert olive foncé
+Vert pomme intense
+Vert mousse foncé
+Vert mint
+Vert cèdre clair
+Vert tilleul clair
+Vert lime clair
+Vert menthe intense
+Vert de gris
+Vert céladon
+Vert forêt profond
+Vert mousse intense
+Gris fumée
+Gris lait
+Gris cendre
+Gris argenté
+Gris pâle
+Gris taupe clair
+Gris perle foncé
+Gris brouillard
+Gris sec
+Gris poussière clair
+Gris acier mat
+Gris fer
+Noir mat intense
+Noir charbon profond
+Noir ténébreux
+Noir charbon brillant
+Noir encre
+Noir mystère
+Noir lunaire
+Brun brunâtre
+Brun rustique
+Brun terre cuite clair
+Brun noisette clair
+Brun noix de pécan
+Brun tourbe
+Brun châtaigne
+Brun vieux bois
+Brun fer
+Beige beurre
+Beige chocolat
+Beige grège
+Beige clair doré
+Jaune amande
+Jaune lin
+Jaune d'or intense
+Jaune tournesol
+Jaune miel
+Jaune paprika
+Orange flamme
+Orange vif clair
+Rouge acajou
+Rouge terre cuite
+Rouge vinaigre
+Rouge vermillon clair
+Rouge framboise éclatant
+Rose magenta
+Rose corail
+Rose fuchsia vif
+Rose orchidée
+Mauve foncé
+Mauve lilas pastel
+Violet groseille
+Violet parme
+Violet aubergine clair
+Violet de Bordeaux
+Violet d'orient
+Bleu ciel pâle
+Bleu gris
+Bleu perle clair
+Bleu cobalt clair
+Bleu saphir intense
+Bleu turquoise foncé
+Bleu aquatique
+Bleu ciel intense
+Vert tilleul clair
+Vert menthe clair
+Vert mousse pâle
+Vert jasmin
+Vert pin
+Vert cactus foncé
+Vert anis clair
+Vert olive foncé
+Gris béton clair
+Gris nuage
+Gris anthracite intense
+Gris pierre
+Gris profond
+Noir charbon clair
+Noir intense mat
+Noir pétrole
+Noir abîme
+Noir onyx
+Noir lumineux
+Brun chocolat clair
+Brun chocolat foncé
+Brun acajou foncé
+Brun cacao
+Beige doré
+Beige chamois
+Beige rose clair
+Jaune citron clair
+Jaune beurre foncé
+Jaune sirop d'érable
+Orange cuivré
+Orange zeste
+Rouge bordeaux foncé
+Rouge carmin foncé
+Rouge cassis
+Rouge grenadine intense
+Rose pêche intense
+Rose framboise clair
+Mauve violet
+Mauve aube
+Violet fuchsia
+Bleu turquoise pâle
+Bleu azur foncé
+Bleu ciel profond
+Bleu intense clair
+Vert pistache clair
+Vert sapin foncé
+Vert jungle
+Vert olive pâle
+Vert mousse clair
+Vert pâle
+Gris pale
+Gris foncé clair
+Gris minéral
+Gris crépuscule
+Noir velouté
+Brun noisette foncé
+Brun châtaigne clair
+Brun chocolat intense
+Brun bordeaux clair
+Beige clair doré
+Jaune d'or pâle
+Jaune tournesol clair
+Orange mordoré
+Rouge cerise foncé
+Rouge brique intense
+Rouge cardinal foncé
+Rose sauvage
+Mauve lumineux
+Violet arc-en-ciel
+Bleu ciel métallique
+Bleu marlin
+Vert pistache foncé
+Vert citron
+Vert pépin
+Vert cèdre foncé
+Vert olive intense
+Gris acier lumineux
+Gris tourterelle
+Gris poudre
+Gris de fer
+Gris tilleul
+Gris perle foncé
+Gris béton foncé
+Gris de souris
+Gris nuage clair
+Gris lunaire
+Gris salin
+Gris anthracite foncé
+Noir encre brillant
+Noir charbon mat
+Noir obsidienne
+Noir pur
+Noir velours brillant
+Brun chêne clair
+Brun acajou léger
+Brun mastic
+Brun ombre
+Brun caramel foncé
+Brun terre
+Beige lin
+Beige clair foncé
+Beige paille
+Jaune pâle d'or
+Jaune ambré
+Jaune soleil clair
+Jaune paille clair
+Jaune oranger
+Orange sirop
+Orange corail clair
+Rouge rose
+Rouge poivré
+Rouge rubis foncé
+Rouge bordeaux clair
+Rose poudré intense
+Rose pastel
+Rose salé
+Mauve lavender
+Mauve clair brillant
+Violet aubergine profond
+Violet lilas pastel
+Violet purple
+Violet tendre
+Bleu cobalt clair
+Bleu pervenche clair
+Bleu pâle lumineux
+Bleu ciel rosé
+Bleu glacé
+Bleu nuit clair
+Bleu lavande
+Bleu mystique
+Bleu de Prusse clair
+Vert anis pâle
+Vert mint clair
+Vert lime éclatant
+Vert émeraude vif
+Vert sauge clair
+Vert bouton de rose
+Vert d'olive pâle
+Vert jade
+Vert mousse foncé
+Gris nuageux
+Gris béton gris
+Gris anthracite métallique
+Gris poussière de pierre
+Gris fer mat
+Noir orage
+Noir gris clair
+Noir acier
+Brun moka
+Brun café
+Brun noisette doré
+Brun bois de rose
+Beige havane
+Beige poudre
+Jaune d'or mat
+Jaune pollen
+Jaune ambré pâle
+Orange marbre
+Orange abricot
+Rouge vif clair
+Rouge tacheté
+Rouge grenadine intense
+Rose beige
+Rose vif
+Rose carmin clair
+Mauve brut
+Mauve prune clair
+Violet rosé
+Violet foncé intense
+Bleu clair azur
+Bleu châle
+Bleu turquoise intense
+Bleu mer clair
+Bleu cobalt métallique
+Vert amande clair
+Vert menthe doux
+Vert pré
+Vert tendre
+Vert tropical
+Vert sapin clair
+Gris pâle translucide
+Gris acier clair
+Gris sable
+Gris étain
+Gris poussiéreux
+Noir lumineux profond
+Noir marbre
+Brun roux
+Brun acajou clair
+Brun mastic foncé
+Brun rustique clair
+Beige camomille
+Beige d'ivoire
+Jaune d'azur
+Jaune doré vibrant
+Jaune à la cire
+Orange pamplemousse
+Orange clémentine
+Rouge cerise intense
+Rouge chaud
+Rouge cuivré intense
+Rose tendre
+Rose aux pétales doux
+Mauve rose doux
+Mauve taffetas
+Violet lavande doux
+Bleu vif aquatique
+Bleu cobalt pâle
+Bleu azur doux
+Bleu turquoise laiteux
+Vert mousse mat
+Vert thé
+Vert tilleul clair
+Gris ardoise foncé
+Gris ciment
+Gris lichen
+Noir minéral
+Noir encre profond
+Brun cannelle
+Brun vieux bois
+Brun chêne rustique
+Brun foncé brillant
+Beige de sable
+Beige pur
+Jaune paille frais
+Jaune vanille
+Jaune bouton de fleur
+Orange carotte
+Orange pastel
+Rouge garnet
+Rouge éclatant
+Rose écarlate
+Rose au sucre
+Mauve de Paris
+Mauve profond
+Violet d'automne
+Violet magnolia
+Bleu eau marine
+Bleu serein
+Bleu berge
+Bleu clair pastel
+Vert mousse clair
+Vert menthe crémeux
+Vert sapin pâle
+Vert pistache douce
+Gris argenté mat
+Gris galet
+Gris coton
+Noir foncé charbon
+Noir profond opaque
+Brun acajou foncé
+Brun chocolat mat
+Brun rouille doux
+Beige miel doux
+Jaune citron doux
+Jaune champagne
+Jaune cire
+Orange mandarine
+Orange cuir
+Rouge brique clair
+Rouge terre cuite pâle
+Rose nougat
+Rose cristal
+Mauve sucre d'orge
+Mauve violet foncé
+Violet pastel doux
+Violet mystique
+Bleu cobalt clair
+Bleu marine clair
+Bleu nuit profond
+Bleu mer léger
+Vert olive doux
+Vert sapin chaud
+Gris glacier
+Gris terre
+Gris poudreux
+Noir aubergine
+Noir froid
+Brun sienne
+Brun des bois
+Brun acajou doré
+Brun foncé intense
+Beige tendre
+Jaune os
+Jaune zeste
+Orange abricot doux
+Rouge cerise brillant
+Rouge pastèque
+Rose brique
+Mauve prune doux
+Mauve lilas pâle
+Violet foncé doux
+Bleu sky
+Bleu éclatant
+Bleu océan profond
+Bleu ardoise lumineux
+Vert mousse pâle
+Vert pastel doux
+Gris gravier
+Gris fer mat
+Noir ombre
+Brun terre de sienne clair
+Brun chocolat clair
+Beige sucre glace
+Jaune butterscotch
+Jaune canari doux
+Orange soufflé
+Rouge cardinale
+Rose tendre pastel
+Mauve drapé
+Mauve à la lavande
+Violet orchidée

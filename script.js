@@ -20,13 +20,15 @@ const sources = [
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/geo.txt", name: "Géographie (fr)", enabled: false, index: 17 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/moyenage.txt", name: "Moyen-Âge (fr)", enabled: false, index: 18 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/lovsex.txt", name: "Love & Sex (fr)", enabled: false, index: 19 },
-	{ url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/en", name: "GameYoga (en)", enabled: false, index: 20 },
-	{ url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/de", name: "GameYoga (de)", enabled: false, index: 21 },
-	{ url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/it", name: "GameYoga (it)", enabled: false, index: 22 },
-	{ url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/nl", name: "GameYoga (nl)", enabled: false, index: 23 },
+	{ url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/en", name: "Skribbl GameYoga (en)", enabled: false, index: 20 },
+	{ url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/de", name: "Skribbl GameYoga (de)", enabled: false, index: 21 },
+	{ url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/it", name: "Skribbl GameYoga (it)", enabled: false, index: 22 },
+	{ url: "https://raw.githubusercontent.com/gameyoga/open-skribbl-io/refs/heads/master/resources/words/nl", name: "Skribbl GameYoga (nl)", enabled: false, index: 23 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/philo.txt", name: "Philosophie (fr)", enabled: false, index: 24 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/dino.txt", name: "Archéopaléo (fr)", enabled: false, index: 25 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/perso.txt", name: "Personnalité", enabled: false, index: 26 },
+	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/meteo.txt", name: "Météorologie (fr)", enabled: false, index: 27 },
+	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/color.txt", name: "Couleurs (fr)", enabled: false, index: 28 },
 ];
 
 function fetchWords(url) {
