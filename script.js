@@ -30,6 +30,7 @@ const sources = [
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/meteo.txt", name: "Météorologie (fr)", enabled: false, index: 27 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/color.txt", name: "Couleurs (fr)", enabled: false, index: 28 },
 	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/art.txt", name: "Art (fr)", enabled: false, index: 29 },
+	{ url: "https://raw.githubusercontent.com/Wartets/RandomWord/refs/heads/main/lists/sport.txt", name: "Sport (fr)", enabled: false, index: 30 },
 ];
 
 function fetchWords(url) {
